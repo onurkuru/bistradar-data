@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T19:03:36.160Z",
+  "generatedAt": "2026-09-10T09:41:29.589Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -664,7 +664,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-06-19T11:36:25.789Z"
+      "updatedAt": "2026-09-10T09:41:52.060Z"
     },
     {
       "ticker": "AAGYO",
@@ -1828,7 +1828,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-06-19T11:36:25.789Z"
+      "updatedAt": "2026-09-10T09:41:52.060Z"
     },
     {
       "ticker": "PLTUR",
@@ -2114,7 +2114,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-06-19T11:36:25.789Z"
+      "updatedAt": "2026-09-10T09:41:52.060Z"
     },
     {
       "ticker": "KCAER",
@@ -2756,7 +2756,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-06-19T11:36:25.789Z"
+      "updatedAt": "2026-09-10T09:41:52.060Z"
     },
     {
       "ticker": "SANKO",
@@ -3693,7 +3693,311 @@
       "updatedAt": "2026-06-11T09:25:12.242Z"
     }
   ],
-  "ipos": [],
+  "ipos": [
+    {
+      "ticker": "NETGL",
+      "company": "Net Global Endüstriyel Yatırımlar A.Ş.",
+      "status": "collecting",
+      "subscriptionStart": "2026-09-09",
+      "subscriptionEnd": "2026-09-11",
+      "priceFixed": 25.52,
+      "lotCount": 87500000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Tacirler Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/net-global-endustriyel-yatirimlar-a-s/",
+      "disclosureId": "halkarz-net-global-endustriyel-yatirimlar-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "INTET",
+      "company": "İntetra Teknoloji ve Bilişim Hizmetleri A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-08-26",
+      "subscriptionEnd": "2026-08-27",
+      "listingDate": "2026-09-01",
+      "priceFixed": 53.6,
+      "lotCount": 40000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Bulls Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/intetra-teknoloji-ve-bilisim-hizmetleri-a-s/",
+      "disclosureId": "halkarz-intetra-teknoloji-ve-bilisim-hizmetleri-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "BKRGY",
+      "company": "Bakırcı Gayrimenkul Yatırım Ortaklığı A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-08-24",
+      "subscriptionEnd": "2026-08-26",
+      "listingDate": "2026-09-02",
+      "priceFixed": 12.93,
+      "lotCount": 167000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "İntegral Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/bakirci-gayrimenkul-yatirim-ortakligi-a-s/",
+      "disclosureId": "halkarz-bakirci-gayrimenkul-yatirim-ortakligi-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "VEYAS",
+      "company": "Türker Vangölü Enerji Yatırım A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-08-12",
+      "subscriptionEnd": "2026-08-14",
+      "listingDate": "2026-08-20",
+      "priceFixed": 136,
+      "lotCount": 65000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Halk Yatırım Menkul Değerler A.Ş., Ziraat Yatırım Menkul Değerler A.Ş., Vakıf Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/turker-vangolu-enerji-yatirim-a-s/",
+      "disclosureId": "halkarz-turker-vangolu-enerji-yatirim-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "KPEKS",
+      "company": "Kapeks Kimya Sanayi A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-08-12",
+      "subscriptionEnd": "2026-08-14",
+      "listingDate": "2026-08-21",
+      "priceFixed": 94,
+      "lotCount": 25100000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Ziraat Yatırım Menkul Kıymetler A.Ş., Türkiye Sınai Kalkınma Bankası A.Ş., Yatırım Finansman Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/kapeks-kimya-sanayi-a-s/",
+      "disclosureId": "halkarz-kapeks-kimya-sanayi-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "TKNKA",
+      "company": "Teknika Plast Teknik Kalıp Plastik San. ve Tic. A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-08-12",
+      "subscriptionEnd": "2026-08-14",
+      "listingDate": "2026-08-20",
+      "priceFixed": 85.4,
+      "lotCount": 31000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Tera Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/teknika-plast-teknik-kalip-plastik-san-ve-tic-a-s/",
+      "disclosureId": "halkarz-teknika-plast-teknik-kalip-plastik-san-ve-tic-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "CITAS",
+      "company": "Çitlekçi Mağazacılık Gıda A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-08-10",
+      "subscriptionEnd": "2026-08-12",
+      "listingDate": "2026-08-18",
+      "priceFixed": 73.7,
+      "lotCount": 36500000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Tera Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/citlekci-magazacilik-gida-a-s/",
+      "disclosureId": "halkarz-citlekci-magazacilik-gida-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "QUICK",
+      "company": "Quick Sigorta A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-29",
+      "subscriptionEnd": "2026-07-31",
+      "listingDate": "2026-08-06",
+      "priceFixed": 76.6,
+      "lotCount": 48312950,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Garanti Yatırım Menkul Kıymetler A.Ş.",
+      "sourceUrl": "https://halkarz.com/quick-sigorta-a-s/",
+      "disclosureId": "halkarz-quick-sigorta-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "KARCL",
+      "company": "Kardemir Çelik Sanayi A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-22",
+      "subscriptionEnd": "2026-07-24",
+      "listingDate": "2026-07-31",
+      "priceFixed": 35,
+      "lotCount": 128000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "A1 Capital Yatırım Menkul Değerler A.Ş., Vakıf Yatırım Menkul Değerler A.Ş., Ziraat Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/kardemir-celik-sanayi-a-s/",
+      "disclosureId": "halkarz-kardemir-celik-sanayi-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "MASFN",
+      "company": "Masfen Enerji A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-22",
+      "subscriptionEnd": "2026-07-24",
+      "listingDate": "2026-07-30",
+      "priceFixed": 45.68,
+      "lotCount": 85000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Deniz Yatırım Menkul Kıymetler A.Ş.",
+      "sourceUrl": "https://halkarz.com/masfen-enerji-a-s/",
+      "disclosureId": "halkarz-masfen-enerji-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "ALBTN",
+      "company": "Albayrak Hazır Beton San. ve Tic. A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-22",
+      "subscriptionEnd": "2026-07-23",
+      "listingDate": "2026-07-29",
+      "priceFixed": 38.6,
+      "lotCount": 70000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Tacirler Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/albayrak-hazir-beton-san-ve-tic-a-s/",
+      "disclosureId": "halkarz-albayrak-hazir-beton-san-ve-tic-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "METEN",
+      "company": "Metgün Enerji Yatırımları A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-20",
+      "subscriptionEnd": "2026-07-22",
+      "listingDate": "2026-07-28",
+      "priceFixed": 20,
+      "lotCount": 135579000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "İnfo Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/metgun-enerji-yatirimlari-a-s/",
+      "disclosureId": "halkarz-metgun-enerji-yatirimlari-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "SARAE",
+      "company": "Şa-Ra Enerji İnşaat Tic. ve San. A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-08",
+      "subscriptionEnd": "2026-07-10",
+      "listingDate": "2026-07-17",
+      "priceFixed": 70,
+      "lotCount": 89000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Tera Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/sa-ra-enerji-insaat-tic-ve-san-a-s/",
+      "disclosureId": "halkarz-sa-ra-enerji-insaat-tic-ve-san-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "SSAAT",
+      "company": "Saat ve Saat San. ve Tic. A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-06",
+      "subscriptionEnd": "2026-07-08",
+      "listingDate": "2026-07-16",
+      "priceFixed": 56,
+      "lotCount": 66944955,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Garanti Yatırım Menkul Kıymetler A.Ş., Halk Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/saat-ve-saat-san-ve-tic-a-s/",
+      "disclosureId": "halkarz-saat-ve-saat-san-ve-tic-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "ISVEA",
+      "company": "İsvea Seramik ve Banyo Ürünleri Sanayi A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-01",
+      "subscriptionEnd": "2026-07-03",
+      "listingDate": "2026-07-10",
+      "priceFixed": 20.9,
+      "lotCount": 67000000,
+      "method": "Eşit Dağıtım",
+      "market": "Ana Pazar",
+      "intermediary": "Halk Yatırım Menkul Değerler A.Ş., Ahlatcı Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/isvea-seramik-ve-banyo-urunleri-sanayi-a-s/",
+      "disclosureId": "halkarz-isvea-seramik-ve-banyo-urunleri-sanayi-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "EKIM",
+      "company": "(Intercity) Ekim Turizm Tic. ve San. A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-01",
+      "subscriptionEnd": "2026-07-03",
+      "listingDate": "2026-07-09",
+      "priceFixed": 30.26,
+      "lotCount": 162000000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "Ak Yatırım Menkul Değerler A.Ş., Vakıf Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/ekim-turizm-tic-ve-san-a-s/",
+      "disclosureId": "halkarz-ekim-turizm-tic-ve-san-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "GOLDA",
+      "company": "Golda Gıda San. ve Tic. A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-07-01",
+      "subscriptionEnd": "2026-07-02",
+      "listingDate": "2026-07-08",
+      "priceFixed": 9.2,
+      "lotCount": 87499998,
+      "method": "Eşit Dağıtım",
+      "market": "Ana Pazar",
+      "intermediary": "Gedik Yatırım Menkul Değerler A.Ş., Misyon Yatırım Bankası A.Ş.",
+      "sourceUrl": "https://halkarz.com/golda-gida-san-ve-tic-a-s/",
+      "disclosureId": "halkarz-golda-gida-san-ve-tic-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "SOHOE",
+      "company": "Soho Giyim ve Enerji A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-06-30",
+      "subscriptionEnd": "2026-07-01",
+      "listingDate": "2026-07-06",
+      "priceFixed": 15,
+      "lotCount": 100000000,
+      "method": "Eşit Dağıtım",
+      "market": "Ana Pazar",
+      "intermediary": "İntegral Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/soho-giyim-ve-enerji-a-s/",
+      "disclosureId": "halkarz-soho-giyim-ve-enerji-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    },
+    {
+      "ticker": "ORZAX",
+      "company": "(Orzax) Orzaks İlaç ve Kimya San. Tic. A.Ş.",
+      "status": "listed",
+      "subscriptionStart": "2026-06-29",
+      "subscriptionEnd": "2026-07-01",
+      "listingDate": "2026-07-07",
+      "priceFixed": 69,
+      "lotCount": 52500000,
+      "method": "Eşit Dağıtım",
+      "market": "Yıldız Pazar",
+      "intermediary": "İnfo Yatırım Menkul Değerler A.Ş.",
+      "sourceUrl": "https://halkarz.com/orzaks-ilac-ve-kimya-san-tic-a-s/",
+      "disclosureId": "halkarz-orzaks-ilac-ve-kimya-san-tic-a-s",
+      "updatedAt": "2026-09-10T09:41:29.589Z"
+    }
+  ],
   "stocks": {
     "SILVR": {
       "ticker": "SILVR",
@@ -39659,245 +39963,9 @@
     },
     "KRVGD": {
       "ticker": "KRVGD",
-      "lastClose": 2.96,
-      "changePct": 1.25,
+      "lastClose": 2.29,
+      "changePct": 0.44,
       "prices": [
-        {
-          "d": "2025-12-22",
-          "c": 2.5581
-        },
-        {
-          "d": "2025-12-23",
-          "c": 2.5877
-        },
-        {
-          "d": "2025-12-24",
-          "c": 2.5186
-        },
-        {
-          "d": "2025-12-25",
-          "c": 2.5877
-        },
-        {
-          "d": "2025-12-26",
-          "c": 2.568
-        },
-        {
-          "d": "2025-12-29",
-          "c": 2.568
-        },
-        {
-          "d": "2025-12-30",
-          "c": 2.6272
-        },
-        {
-          "d": "2025-12-31",
-          "c": 2.726
-        },
-        {
-          "d": "2026-01-02",
-          "c": 2.7655
-        },
-        {
-          "d": "2026-01-05",
-          "c": 2.6865
-        },
-        {
-          "d": "2026-01-06",
-          "c": 2.726
-        },
-        {
-          "d": "2026-01-07",
-          "c": 2.7063
-        },
-        {
-          "d": "2026-01-08",
-          "c": 2.7458
-        },
-        {
-          "d": "2026-01-09",
-          "c": 2.8347
-        },
-        {
-          "d": "2026-01-12",
-          "c": 2.8939
-        },
-        {
-          "d": "2026-01-13",
-          "c": 2.8939
-        },
-        {
-          "d": "2026-01-14",
-          "c": 2.8742
-        },
-        {
-          "d": "2026-01-15",
-          "c": 2.9927
-        },
-        {
-          "d": "2026-01-16",
-          "c": 2.9729
-        },
-        {
-          "d": "2026-01-19",
-          "c": 2.9235
-        },
-        {
-          "d": "2026-01-20",
-          "c": 2.9137
-        },
-        {
-          "d": "2026-01-21",
-          "c": 2.9235
-        },
-        {
-          "d": "2026-01-22",
-          "c": 2.9631
-        },
-        {
-          "d": "2026-01-23",
-          "c": 2.9532
-        },
-        {
-          "d": "2026-01-26",
-          "c": 2.9532
-        },
-        {
-          "d": "2026-01-27",
-          "c": 2.9532
-        },
-        {
-          "d": "2026-01-28",
-          "c": 2.9828
-        },
-        {
-          "d": "2026-01-29",
-          "c": 3.0026
-        },
-        {
-          "d": "2026-01-30",
-          "c": 3.1803
-        },
-        {
-          "d": "2026-02-02",
-          "c": 2.9828
-        },
-        {
-          "d": "2026-02-03",
-          "c": 2.9828
-        },
-        {
-          "d": "2026-02-04",
-          "c": 2.9235
-        },
-        {
-          "d": "2026-02-05",
-          "c": 2.9631
-        },
-        {
-          "d": "2026-02-06",
-          "c": 2.9235
-        },
-        {
-          "d": "2026-02-09",
-          "c": 3.0223
-        },
-        {
-          "d": "2026-02-10",
-          "c": 3.0717
-        },
-        {
-          "d": "2026-02-11",
-          "c": 3.0026
-        },
-        {
-          "d": "2026-02-12",
-          "c": 3.0421
-        },
-        {
-          "d": "2026-02-13",
-          "c": 3.0618
-        },
-        {
-          "d": "2026-02-16",
-          "c": 3.1606
-        },
-        {
-          "d": "2026-02-17",
-          "c": 3.2001
-        },
-        {
-          "d": "2026-02-18",
-          "c": 3.131
-        },
-        {
-          "d": "2026-02-19",
-          "c": 3.0816
-        },
-        {
-          "d": "2026-02-20",
-          "c": 3.1408
-        },
-        {
-          "d": "2026-02-23",
-          "c": 3.1112
-        },
-        {
-          "d": "2026-02-24",
-          "c": 3.1902
-        },
-        {
-          "d": "2026-02-25",
-          "c": 3.1112
-        },
-        {
-          "d": "2026-02-26",
-          "c": 3.1013
-        },
-        {
-          "d": "2026-02-27",
-          "c": 3.0915
-        },
-        {
-          "d": "2026-03-02",
-          "c": 2.9927
-        },
-        {
-          "d": "2026-03-03",
-          "c": 2.9235
-        },
-        {
-          "d": "2026-03-04",
-          "c": 2.9729
-        },
-        {
-          "d": "2026-03-05",
-          "c": 2.9927
-        },
-        {
-          "d": "2026-03-06",
-          "c": 2.884
-        },
-        {
-          "d": "2026-03-09",
-          "c": 2.9038
-        },
-        {
-          "d": "2026-03-10",
-          "c": 2.9927
-        },
-        {
-          "d": "2026-03-11",
-          "c": 2.9729
-        },
-        {
-          "d": "2026-03-12",
-          "c": 2.9137
-        },
-        {
-          "d": "2026-03-13",
-          "c": 2.8643
-        },
         {
           "d": "2026-03-16",
           "c": 2.9235
@@ -40145,6 +40213,238 @@
         {
           "d": "2026-06-18",
           "c": 2.96
+        },
+        {
+          "d": "2026-06-19",
+          "c": 2.91
+        },
+        {
+          "d": "2026-06-22",
+          "c": 2.93
+        },
+        {
+          "d": "2026-06-23",
+          "c": 2.94
+        },
+        {
+          "d": "2026-06-24",
+          "c": 2.91
+        },
+        {
+          "d": "2026-06-25",
+          "c": 2.88
+        },
+        {
+          "d": "2026-06-26",
+          "c": 2.87
+        },
+        {
+          "d": "2026-06-29",
+          "c": 2.9
+        },
+        {
+          "d": "2026-06-30",
+          "c": 2.8
+        },
+        {
+          "d": "2026-07-01",
+          "c": 2.8
+        },
+        {
+          "d": "2026-07-02",
+          "c": 2.81
+        },
+        {
+          "d": "2026-07-03",
+          "c": 2.82
+        },
+        {
+          "d": "2026-07-06",
+          "c": 2.84
+        },
+        {
+          "d": "2026-07-07",
+          "c": 2.81
+        },
+        {
+          "d": "2026-07-08",
+          "c": 2.76
+        },
+        {
+          "d": "2026-07-09",
+          "c": 2.75
+        },
+        {
+          "d": "2026-07-10",
+          "c": 2.76
+        },
+        {
+          "d": "2026-07-13",
+          "c": 2.71
+        },
+        {
+          "d": "2026-07-14",
+          "c": 2.76
+        },
+        {
+          "d": "2026-07-16",
+          "c": 2.75
+        },
+        {
+          "d": "2026-07-17",
+          "c": 2.73
+        },
+        {
+          "d": "2026-07-20",
+          "c": 2.79
+        },
+        {
+          "d": "2026-07-21",
+          "c": 2.73
+        },
+        {
+          "d": "2026-07-22",
+          "c": 2.73
+        },
+        {
+          "d": "2026-07-23",
+          "c": 2.73
+        },
+        {
+          "d": "2026-07-24",
+          "c": 2.64
+        },
+        {
+          "d": "2026-07-27",
+          "c": 2.61
+        },
+        {
+          "d": "2026-07-28",
+          "c": 2.58
+        },
+        {
+          "d": "2026-07-29",
+          "c": 2.46
+        },
+        {
+          "d": "2026-07-30",
+          "c": 2.29
+        },
+        {
+          "d": "2026-07-31",
+          "c": 2.37
+        },
+        {
+          "d": "2026-08-03",
+          "c": 2.36
+        },
+        {
+          "d": "2026-08-04",
+          "c": 2.41
+        },
+        {
+          "d": "2026-08-05",
+          "c": 2.44
+        },
+        {
+          "d": "2026-08-06",
+          "c": 2.44
+        },
+        {
+          "d": "2026-08-07",
+          "c": 2.44
+        },
+        {
+          "d": "2026-08-10",
+          "c": 2.42
+        },
+        {
+          "d": "2026-08-11",
+          "c": 2.41
+        },
+        {
+          "d": "2026-08-12",
+          "c": 2.44
+        },
+        {
+          "d": "2026-08-13",
+          "c": 2.43
+        },
+        {
+          "d": "2026-08-14",
+          "c": 2.4
+        },
+        {
+          "d": "2026-08-17",
+          "c": 2.39
+        },
+        {
+          "d": "2026-08-18",
+          "c": 2.34
+        },
+        {
+          "d": "2026-08-19",
+          "c": 2.33
+        },
+        {
+          "d": "2026-08-20",
+          "c": 2.32
+        },
+        {
+          "d": "2026-08-21",
+          "c": 2.3
+        },
+        {
+          "d": "2026-08-24",
+          "c": 2.31
+        },
+        {
+          "d": "2026-08-25",
+          "c": 2.29
+        },
+        {
+          "d": "2026-08-26",
+          "c": 2.27
+        },
+        {
+          "d": "2026-08-27",
+          "c": 2.28
+        },
+        {
+          "d": "2026-08-28",
+          "c": 2.3
+        },
+        {
+          "d": "2026-08-31",
+          "c": 2.26
+        },
+        {
+          "d": "2026-09-01",
+          "c": 2.27
+        },
+        {
+          "d": "2026-09-02",
+          "c": 2.22
+        },
+        {
+          "d": "2026-09-03",
+          "c": 2.22
+        },
+        {
+          "d": "2026-09-04",
+          "c": 2.22
+        },
+        {
+          "d": "2026-09-07",
+          "c": 2.28
+        },
+        {
+          "d": "2026-09-08",
+          "c": 2.28
+        },
+        {
+          "d": "2026-09-09",
+          "c": 2.29
         }
       ]
     },
@@ -90155,121 +90455,9 @@
     },
     "ARSAN": {
       "ticker": "ARSAN",
-      "lastClose": 3.34,
-      "changePct": -0.89,
+      "lastClose": 3.86,
+      "changePct": -1.53,
       "prices": [
-        {
-          "d": "2026-02-04",
-          "c": 4.3
-        },
-        {
-          "d": "2026-02-05",
-          "c": 4.07
-        },
-        {
-          "d": "2026-02-06",
-          "c": 4.47
-        },
-        {
-          "d": "2026-02-09",
-          "c": 4.57
-        },
-        {
-          "d": "2026-02-10",
-          "c": 4.54
-        },
-        {
-          "d": "2026-02-11",
-          "c": 4.8
-        },
-        {
-          "d": "2026-02-12",
-          "c": 4.61
-        },
-        {
-          "d": "2026-02-13",
-          "c": 4.57
-        },
-        {
-          "d": "2026-02-16",
-          "c": 4.33
-        },
-        {
-          "d": "2026-02-17",
-          "c": 4.2
-        },
-        {
-          "d": "2026-02-18",
-          "c": 4.05
-        },
-        {
-          "d": "2026-02-19",
-          "c": 3.79
-        },
-        {
-          "d": "2026-02-20",
-          "c": 3.76
-        },
-        {
-          "d": "2026-02-23",
-          "c": 3.74
-        },
-        {
-          "d": "2026-02-24",
-          "c": 3.68
-        },
-        {
-          "d": "2026-02-25",
-          "c": 3.94
-        },
-        {
-          "d": "2026-02-26",
-          "c": 4.08
-        },
-        {
-          "d": "2026-02-27",
-          "c": 3.92
-        },
-        {
-          "d": "2026-03-02",
-          "c": 3.75
-        },
-        {
-          "d": "2026-03-03",
-          "c": 3.7
-        },
-        {
-          "d": "2026-03-04",
-          "c": 3.68
-        },
-        {
-          "d": "2026-03-05",
-          "c": 3.71
-        },
-        {
-          "d": "2026-03-06",
-          "c": 3.63
-        },
-        {
-          "d": "2026-03-09",
-          "c": 3.48
-        },
-        {
-          "d": "2026-03-10",
-          "c": 3.71
-        },
-        {
-          "d": "2026-03-11",
-          "c": 3.75
-        },
-        {
-          "d": "2026-03-12",
-          "c": 3.82
-        },
-        {
-          "d": "2026-03-13",
-          "c": 4.02
-        },
         {
           "d": "2026-03-16",
           "c": 3.8
@@ -90641,6 +90829,114 @@
         {
           "d": "2026-08-03",
           "c": 3.34
+        },
+        {
+          "d": "2026-08-04",
+          "c": 3.35
+        },
+        {
+          "d": "2026-08-05",
+          "c": 3.28
+        },
+        {
+          "d": "2026-08-06",
+          "c": 3.3
+        },
+        {
+          "d": "2026-08-07",
+          "c": 3.32
+        },
+        {
+          "d": "2026-08-10",
+          "c": 3.3
+        },
+        {
+          "d": "2026-08-11",
+          "c": 3.37
+        },
+        {
+          "d": "2026-08-12",
+          "c": 3.39
+        },
+        {
+          "d": "2026-08-13",
+          "c": 3.34
+        },
+        {
+          "d": "2026-08-14",
+          "c": 3.47
+        },
+        {
+          "d": "2026-08-17",
+          "c": 3.5
+        },
+        {
+          "d": "2026-08-18",
+          "c": 3.54
+        },
+        {
+          "d": "2026-08-19",
+          "c": 3.81
+        },
+        {
+          "d": "2026-08-20",
+          "c": 3.72
+        },
+        {
+          "d": "2026-08-21",
+          "c": 3.88
+        },
+        {
+          "d": "2026-08-24",
+          "c": 4.01
+        },
+        {
+          "d": "2026-08-25",
+          "c": 4.27
+        },
+        {
+          "d": "2026-08-26",
+          "c": 4.29
+        },
+        {
+          "d": "2026-08-27",
+          "c": 4.25
+        },
+        {
+          "d": "2026-08-28",
+          "c": 4.26
+        },
+        {
+          "d": "2026-08-31",
+          "c": 4.4
+        },
+        {
+          "d": "2026-09-01",
+          "c": 4.08
+        },
+        {
+          "d": "2026-09-02",
+          "c": 3.97
+        },
+        {
+          "d": "2026-09-03",
+          "c": 3.79
+        },
+        {
+          "d": "2026-09-04",
+          "c": 3.89
+        },
+        {
+          "d": "2026-09-07",
+          "c": 3.96
+        },
+        {
+          "d": "2026-09-08",
+          "c": 3.92
+        },
+        {
+          "d": "2026-09-09",
+          "c": 3.86
         }
       ]
     },
@@ -99766,6 +100062,493 @@
         {
           "d": "2026-09-07",
           "c": 21.48
+        }
+      ]
+    },
+    "KATMR": {
+      "ticker": "KATMR",
+      "lastClose": 1.92,
+      "changePct": 1.59,
+      "prices": [
+        {
+          "d": "2026-03-16",
+          "c": 2.88
+        },
+        {
+          "d": "2026-03-17",
+          "c": 2.98
+        },
+        {
+          "d": "2026-03-18",
+          "c": 2.88
+        },
+        {
+          "d": "2026-03-19",
+          "c": 2.98
+        },
+        {
+          "d": "2026-03-23",
+          "c": 2.96
+        },
+        {
+          "d": "2026-03-24",
+          "c": 2.8
+        },
+        {
+          "d": "2026-03-25",
+          "c": 2.75
+        },
+        {
+          "d": "2026-03-26",
+          "c": 2.78
+        },
+        {
+          "d": "2026-03-27",
+          "c": 2.69
+        },
+        {
+          "d": "2026-03-30",
+          "c": 2.71
+        },
+        {
+          "d": "2026-03-31",
+          "c": 2.67
+        },
+        {
+          "d": "2026-04-01",
+          "c": 2.69
+        },
+        {
+          "d": "2026-04-02",
+          "c": 2.74
+        },
+        {
+          "d": "2026-04-03",
+          "c": 2.67
+        },
+        {
+          "d": "2026-04-06",
+          "c": 2.7
+        },
+        {
+          "d": "2026-04-07",
+          "c": 2.65
+        },
+        {
+          "d": "2026-04-08",
+          "c": 2.73
+        },
+        {
+          "d": "2026-04-09",
+          "c": 2.71
+        },
+        {
+          "d": "2026-04-10",
+          "c": 2.74
+        },
+        {
+          "d": "2026-04-13",
+          "c": 2.73
+        },
+        {
+          "d": "2026-04-14",
+          "c": 2.74
+        },
+        {
+          "d": "2026-04-15",
+          "c": 2.85
+        },
+        {
+          "d": "2026-04-16",
+          "c": 2.8
+        },
+        {
+          "d": "2026-04-17",
+          "c": 2.86
+        },
+        {
+          "d": "2026-04-20",
+          "c": 2.88
+        },
+        {
+          "d": "2026-04-21",
+          "c": 2.94
+        },
+        {
+          "d": "2026-04-22",
+          "c": 2.82
+        },
+        {
+          "d": "2026-04-24",
+          "c": 2.81
+        },
+        {
+          "d": "2026-04-27",
+          "c": 2.82
+        },
+        {
+          "d": "2026-04-28",
+          "c": 2.82
+        },
+        {
+          "d": "2026-04-29",
+          "c": 2.87
+        },
+        {
+          "d": "2026-04-30",
+          "c": 2.87
+        },
+        {
+          "d": "2026-05-04",
+          "c": 2.84
+        },
+        {
+          "d": "2026-05-05",
+          "c": 2.91
+        },
+        {
+          "d": "2026-05-06",
+          "c": 2.94
+        },
+        {
+          "d": "2026-05-07",
+          "c": 3.1
+        },
+        {
+          "d": "2026-05-08",
+          "c": 3.14
+        },
+        {
+          "d": "2026-05-11",
+          "c": 3.16
+        },
+        {
+          "d": "2026-05-12",
+          "c": 3.24
+        },
+        {
+          "d": "2026-05-13",
+          "c": 2.95
+        },
+        {
+          "d": "2026-05-14",
+          "c": 2.97
+        },
+        {
+          "d": "2026-05-15",
+          "c": 2.93
+        },
+        {
+          "d": "2026-05-18",
+          "c": 2.89
+        },
+        {
+          "d": "2026-05-20",
+          "c": 2.86
+        },
+        {
+          "d": "2026-05-21",
+          "c": 2.58
+        },
+        {
+          "d": "2026-05-22",
+          "c": 2.71
+        },
+        {
+          "d": "2026-05-25",
+          "c": 2.73
+        },
+        {
+          "d": "2026-05-26",
+          "c": 2.74
+        },
+        {
+          "d": "2026-06-01",
+          "c": 2.84
+        },
+        {
+          "d": "2026-06-02",
+          "c": 2.95
+        },
+        {
+          "d": "2026-06-03",
+          "c": 2.85
+        },
+        {
+          "d": "2026-06-04",
+          "c": 2.84
+        },
+        {
+          "d": "2026-06-05",
+          "c": 2.76
+        },
+        {
+          "d": "2026-06-08",
+          "c": 2.78
+        },
+        {
+          "d": "2026-06-09",
+          "c": 2.71
+        },
+        {
+          "d": "2026-06-10",
+          "c": 2.72
+        },
+        {
+          "d": "2026-06-11",
+          "c": 2.74
+        },
+        {
+          "d": "2026-06-12",
+          "c": 2.73
+        },
+        {
+          "d": "2026-06-15",
+          "c": 2.77
+        },
+        {
+          "d": "2026-06-16",
+          "c": 2.74
+        },
+        {
+          "d": "2026-06-17",
+          "c": 2.68
+        },
+        {
+          "d": "2026-06-18",
+          "c": 2.7
+        },
+        {
+          "d": "2026-06-19",
+          "c": 2.68
+        },
+        {
+          "d": "2026-06-22",
+          "c": 2.72
+        },
+        {
+          "d": "2026-06-23",
+          "c": 2.72
+        },
+        {
+          "d": "2026-06-24",
+          "c": 2.72
+        },
+        {
+          "d": "2026-06-25",
+          "c": 2.75
+        },
+        {
+          "d": "2026-06-26",
+          "c": 2.69
+        },
+        {
+          "d": "2026-06-29",
+          "c": 2.71
+        },
+        {
+          "d": "2026-06-30",
+          "c": 2.69
+        },
+        {
+          "d": "2026-07-01",
+          "c": 2.78
+        },
+        {
+          "d": "2026-07-02",
+          "c": 2.7
+        },
+        {
+          "d": "2026-07-03",
+          "c": 2.71
+        },
+        {
+          "d": "2026-07-06",
+          "c": 2.66
+        },
+        {
+          "d": "2026-07-07",
+          "c": 2.67
+        },
+        {
+          "d": "2026-07-08",
+          "c": 2.58
+        },
+        {
+          "d": "2026-07-09",
+          "c": 2.5
+        },
+        {
+          "d": "2026-07-10",
+          "c": 2.52
+        },
+        {
+          "d": "2026-07-13",
+          "c": 2.43
+        },
+        {
+          "d": "2026-07-14",
+          "c": 2.42
+        },
+        {
+          "d": "2026-07-16",
+          "c": 2.44
+        },
+        {
+          "d": "2026-07-17",
+          "c": 2.36
+        },
+        {
+          "d": "2026-07-20",
+          "c": 2.37
+        },
+        {
+          "d": "2026-07-21",
+          "c": 2.37
+        },
+        {
+          "d": "2026-07-22",
+          "c": 2.43
+        },
+        {
+          "d": "2026-07-23",
+          "c": 2.44
+        },
+        {
+          "d": "2026-07-24",
+          "c": 2.41
+        },
+        {
+          "d": "2026-07-27",
+          "c": 2.36
+        },
+        {
+          "d": "2026-07-28",
+          "c": 2.31
+        },
+        {
+          "d": "2026-07-29",
+          "c": 2.21
+        },
+        {
+          "d": "2026-07-30",
+          "c": 2.21
+        },
+        {
+          "d": "2026-07-31",
+          "c": 2.21
+        },
+        {
+          "d": "2026-08-03",
+          "c": 2.22
+        },
+        {
+          "d": "2026-08-04",
+          "c": 2.24
+        },
+        {
+          "d": "2026-08-05",
+          "c": 2.22
+        },
+        {
+          "d": "2026-08-06",
+          "c": 2.21
+        },
+        {
+          "d": "2026-08-07",
+          "c": 2.22
+        },
+        {
+          "d": "2026-08-10",
+          "c": 2.21
+        },
+        {
+          "d": "2026-08-11",
+          "c": 2.2
+        },
+        {
+          "d": "2026-08-12",
+          "c": 2.2
+        },
+        {
+          "d": "2026-08-13",
+          "c": 2.23
+        },
+        {
+          "d": "2026-08-14",
+          "c": 2.3
+        },
+        {
+          "d": "2026-08-17",
+          "c": 2.27
+        },
+        {
+          "d": "2026-08-18",
+          "c": 2.05
+        },
+        {
+          "d": "2026-08-19",
+          "c": 2.07
+        },
+        {
+          "d": "2026-08-20",
+          "c": 2.08
+        },
+        {
+          "d": "2026-08-21",
+          "c": 2.11
+        },
+        {
+          "d": "2026-08-24",
+          "c": 2.12
+        },
+        {
+          "d": "2026-08-25",
+          "c": 2.09
+        },
+        {
+          "d": "2026-08-26",
+          "c": 2.11
+        },
+        {
+          "d": "2026-08-27",
+          "c": 2.12
+        },
+        {
+          "d": "2026-08-28",
+          "c": 2.12
+        },
+        {
+          "d": "2026-08-31",
+          "c": 2.05
+        },
+        {
+          "d": "2026-09-01",
+          "c": 2.01
+        },
+        {
+          "d": "2026-09-02",
+          "c": 1.99
+        },
+        {
+          "d": "2026-09-03",
+          "c": 1.86
+        },
+        {
+          "d": "2026-09-04",
+          "c": 1.84
+        },
+        {
+          "d": "2026-09-07",
+          "c": 1.85
+        },
+        {
+          "d": "2026-09-08",
+          "c": 1.89
+        },
+        {
+          "d": "2026-09-09",
+          "c": 1.92
         }
       ]
     }
