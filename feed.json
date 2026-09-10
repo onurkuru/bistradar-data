@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T09:41:29.589Z",
+  "generatedAt": "2026-09-10T11:42:21.397Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -664,7 +664,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-09-10T09:41:52.060Z"
+      "updatedAt": "2026-09-10T09:44:39.421Z"
     },
     {
       "ticker": "AAGYO",
@@ -1828,7 +1828,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-09-10T09:41:52.060Z"
+      "updatedAt": "2026-09-10T09:44:39.421Z"
     },
     {
       "ticker": "PLTUR",
@@ -2114,7 +2114,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-09-10T09:41:52.060Z"
+      "updatedAt": "2026-09-10T09:44:39.421Z"
     },
     {
       "ticker": "KCAER",
@@ -2756,7 +2756,7 @@
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": false,
-      "updatedAt": "2026-09-10T09:41:52.060Z"
+      "updatedAt": "2026-09-10T09:44:39.421Z"
     },
     {
       "ticker": "SANKO",
@@ -3707,7 +3707,7 @@
       "intermediary": "Tacirler Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/net-global-endustriyel-yatirimlar-a-s/",
       "disclosureId": "halkarz-net-global-endustriyel-yatirimlar-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "INTET",
@@ -3723,7 +3723,7 @@
       "intermediary": "Bulls Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/intetra-teknoloji-ve-bilisim-hizmetleri-a-s/",
       "disclosureId": "halkarz-intetra-teknoloji-ve-bilisim-hizmetleri-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "BKRGY",
@@ -3739,7 +3739,7 @@
       "intermediary": "İntegral Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/bakirci-gayrimenkul-yatirim-ortakligi-a-s/",
       "disclosureId": "halkarz-bakirci-gayrimenkul-yatirim-ortakligi-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "VEYAS",
@@ -3755,7 +3755,7 @@
       "intermediary": "Halk Yatırım Menkul Değerler A.Ş., Ziraat Yatırım Menkul Değerler A.Ş., Vakıf Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/turker-vangolu-enerji-yatirim-a-s/",
       "disclosureId": "halkarz-turker-vangolu-enerji-yatirim-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "KPEKS",
@@ -3771,7 +3771,7 @@
       "intermediary": "Ziraat Yatırım Menkul Kıymetler A.Ş., Türkiye Sınai Kalkınma Bankası A.Ş., Yatırım Finansman Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/kapeks-kimya-sanayi-a-s/",
       "disclosureId": "halkarz-kapeks-kimya-sanayi-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "TKNKA",
@@ -3787,7 +3787,7 @@
       "intermediary": "Tera Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/teknika-plast-teknik-kalip-plastik-san-ve-tic-a-s/",
       "disclosureId": "halkarz-teknika-plast-teknik-kalip-plastik-san-ve-tic-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "CITAS",
@@ -3803,7 +3803,7 @@
       "intermediary": "Tera Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/citlekci-magazacilik-gida-a-s/",
       "disclosureId": "halkarz-citlekci-magazacilik-gida-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "QUICK",
@@ -3819,7 +3819,7 @@
       "intermediary": "Garanti Yatırım Menkul Kıymetler A.Ş.",
       "sourceUrl": "https://halkarz.com/quick-sigorta-a-s/",
       "disclosureId": "halkarz-quick-sigorta-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "KARCL",
@@ -3835,7 +3835,7 @@
       "intermediary": "A1 Capital Yatırım Menkul Değerler A.Ş., Vakıf Yatırım Menkul Değerler A.Ş., Ziraat Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/kardemir-celik-sanayi-a-s/",
       "disclosureId": "halkarz-kardemir-celik-sanayi-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "MASFN",
@@ -3851,7 +3851,7 @@
       "intermediary": "Deniz Yatırım Menkul Kıymetler A.Ş.",
       "sourceUrl": "https://halkarz.com/masfen-enerji-a-s/",
       "disclosureId": "halkarz-masfen-enerji-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "ALBTN",
@@ -3867,7 +3867,7 @@
       "intermediary": "Tacirler Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/albayrak-hazir-beton-san-ve-tic-a-s/",
       "disclosureId": "halkarz-albayrak-hazir-beton-san-ve-tic-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "METEN",
@@ -3883,7 +3883,7 @@
       "intermediary": "İnfo Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/metgun-enerji-yatirimlari-a-s/",
       "disclosureId": "halkarz-metgun-enerji-yatirimlari-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "SARAE",
@@ -3899,7 +3899,7 @@
       "intermediary": "Tera Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/sa-ra-enerji-insaat-tic-ve-san-a-s/",
       "disclosureId": "halkarz-sa-ra-enerji-insaat-tic-ve-san-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "SSAAT",
@@ -3915,7 +3915,7 @@
       "intermediary": "Garanti Yatırım Menkul Kıymetler A.Ş., Halk Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/saat-ve-saat-san-ve-tic-a-s/",
       "disclosureId": "halkarz-saat-ve-saat-san-ve-tic-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "ISVEA",
@@ -3931,7 +3931,7 @@
       "intermediary": "Halk Yatırım Menkul Değerler A.Ş., Ahlatcı Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/isvea-seramik-ve-banyo-urunleri-sanayi-a-s/",
       "disclosureId": "halkarz-isvea-seramik-ve-banyo-urunleri-sanayi-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "EKIM",
@@ -3947,7 +3947,7 @@
       "intermediary": "Ak Yatırım Menkul Değerler A.Ş., Vakıf Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/ekim-turizm-tic-ve-san-a-s/",
       "disclosureId": "halkarz-ekim-turizm-tic-ve-san-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "GOLDA",
@@ -3963,7 +3963,7 @@
       "intermediary": "Gedik Yatırım Menkul Değerler A.Ş., Misyon Yatırım Bankası A.Ş.",
       "sourceUrl": "https://halkarz.com/golda-gida-san-ve-tic-a-s/",
       "disclosureId": "halkarz-golda-gida-san-ve-tic-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "SOHOE",
@@ -3979,7 +3979,7 @@
       "intermediary": "İntegral Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/soho-giyim-ve-enerji-a-s/",
       "disclosureId": "halkarz-soho-giyim-ve-enerji-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     },
     {
       "ticker": "ORZAX",
@@ -3995,7 +3995,7 @@
       "intermediary": "İnfo Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/orzaks-ilac-ve-kimya-san-tic-a-s/",
       "disclosureId": "halkarz-orzaks-ilac-ve-kimya-san-tic-a-s",
-      "updatedAt": "2026-09-10T09:41:29.589Z"
+      "updatedAt": "2026-09-10T09:43:44.753Z"
     }
   ],
   "stocks": {
@@ -90942,25 +90942,9 @@
     },
     "MZHLD": {
       "ticker": "MZHLD",
-      "lastClose": 5.23,
-      "changePct": -1.32,
+      "lastClose": 5.21,
+      "changePct": -0.38,
       "prices": [
-        {
-          "d": "2026-03-10",
-          "c": 6.62
-        },
-        {
-          "d": "2026-03-11",
-          "c": 6.43
-        },
-        {
-          "d": "2026-03-12",
-          "c": 6.25
-        },
-        {
-          "d": "2026-03-13",
-          "c": 6.25
-        },
         {
           "d": "2026-03-16",
           "c": 6.18
@@ -91428,30 +91412,26 @@
         {
           "d": "2026-09-04",
           "c": 5.23
+        },
+        {
+          "d": "2026-09-07",
+          "c": 5.2
+        },
+        {
+          "d": "2026-09-08",
+          "c": 5.23
+        },
+        {
+          "d": "2026-09-09",
+          "c": 5.21
         }
       ]
     },
     "EPLAS": {
       "ticker": "EPLAS",
-      "lastClose": 5.47,
-      "changePct": 0.37,
+      "lastClose": 5.52,
+      "changePct": -1.95,
       "prices": [
-        {
-          "d": "2026-03-10",
-          "c": 6.17
-        },
-        {
-          "d": "2026-03-11",
-          "c": 6.12
-        },
-        {
-          "d": "2026-03-12",
-          "c": 6.23
-        },
-        {
-          "d": "2026-03-13",
-          "c": 6.3
-        },
         {
           "d": "2026-03-16",
           "c": 6.39
@@ -91919,6 +91899,18 @@
         {
           "d": "2026-09-04",
           "c": 5.47
+        },
+        {
+          "d": "2026-09-07",
+          "c": 5.55
+        },
+        {
+          "d": "2026-09-08",
+          "c": 5.63
+        },
+        {
+          "d": "2026-09-09",
+          "c": 5.52
         }
       ]
     },
@@ -92415,21 +92407,9 @@
     },
     "TKFEN": {
       "ticker": "TKFEN",
-      "lastClose": 207,
-      "changePct": -1.8,
+      "lastClose": 210,
+      "changePct": -2.82,
       "prices": [
-        {
-          "d": "2026-03-11",
-          "c": 84.65
-        },
-        {
-          "d": "2026-03-12",
-          "c": 85.3
-        },
-        {
-          "d": "2026-03-13",
-          "c": 85
-        },
         {
           "d": "2026-03-16",
           "c": 83.75
@@ -92901,6 +92881,14 @@
         {
           "d": "2026-09-07",
           "c": 207
+        },
+        {
+          "d": "2026-09-08",
+          "c": 216.1
+        },
+        {
+          "d": "2026-09-09",
+          "c": 210
         }
       ]
     },
@@ -93397,29 +93385,9 @@
     },
     "KAPLM": {
       "ticker": "KAPLM",
-      "lastClose": 356.25,
-      "changePct": -5.32,
+      "lastClose": 375.25,
+      "changePct": 2.95,
       "prices": [
-        {
-          "d": "2026-03-09",
-          "c": 334.75
-        },
-        {
-          "d": "2026-03-10",
-          "c": 368
-        },
-        {
-          "d": "2026-03-11",
-          "c": 389
-        },
-        {
-          "d": "2026-03-12",
-          "c": 388
-        },
-        {
-          "d": "2026-03-13",
-          "c": 388
-        },
         {
           "d": "2026-03-16",
           "c": 405.25
@@ -93887,6 +93855,18 @@
         {
           "d": "2026-09-04",
           "c": 356.25
+        },
+        {
+          "d": "2026-09-07",
+          "c": 379.75
+        },
+        {
+          "d": "2026-09-08",
+          "c": 364.5
+        },
+        {
+          "d": "2026-09-09",
+          "c": 375.25
         }
       ]
     },
@@ -99085,21 +99065,9 @@
     },
     "GUBRF": {
       "ticker": "GUBRF",
-      "lastClose": 491.25,
-      "changePct": 2.61,
+      "lastClose": 512,
+      "changePct": 1.59,
       "prices": [
-        {
-          "d": "2026-03-11",
-          "c": 520.5
-        },
-        {
-          "d": "2026-03-12",
-          "c": 527.5
-        },
-        {
-          "d": "2026-03-13",
-          "c": 521
-        },
         {
           "d": "2026-03-16",
           "c": 511.5
@@ -99571,26 +99539,22 @@
         {
           "d": "2026-09-07",
           "c": 491.25
+        },
+        {
+          "d": "2026-09-08",
+          "c": 504
+        },
+        {
+          "d": "2026-09-09",
+          "c": 512
         }
       ]
     },
     "SDTTR": {
       "ticker": "SDTTR",
-      "lastClose": 21.48,
-      "changePct": -0.65,
+      "lastClose": 21.66,
+      "changePct": -0.82,
       "prices": [
-        {
-          "d": "2026-03-11",
-          "c": 20.3636
-        },
-        {
-          "d": "2026-03-12",
-          "c": 20.4182
-        },
-        {
-          "d": "2026-03-13",
-          "c": 20.2545
-        },
         {
           "d": "2026-03-16",
           "c": 19.7364
@@ -100062,6 +100026,14 @@
         {
           "d": "2026-09-07",
           "c": 21.48
+        },
+        {
+          "d": "2026-09-08",
+          "c": 21.84
+        },
+        {
+          "d": "2026-09-09",
+          "c": 21.66
         }
       ]
     },
