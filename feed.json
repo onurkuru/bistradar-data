@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T11:42:21.397Z",
+  "generatedAt": "2026-09-10T12:48:03.939Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -5474,7 +5474,8 @@
           "d": "2026-06-12",
           "c": 109
         }
-      ]
+      ],
+      "name": "Anel Elektrik"
     },
     "LOGO": {
       "ticker": "LOGO",
@@ -10332,7 +10333,8 @@
           "d": "2026-06-12",
           "c": 79.85
         }
-      ]
+      ],
+      "name": "Aksa Enerji"
     },
     "FONET": {
       "ticker": "FONET",
@@ -11322,7 +11324,8 @@
           "d": "2026-07-10",
           "c": 11.7
         }
-      ]
+      ],
+      "name": "Ata GYO"
     },
     "BVSAN": {
       "ticker": "BVSAN",
@@ -13302,7 +13305,8 @@
           "d": "2026-07-10",
           "c": 2.95
         }
-      ]
+      ],
+      "name": "Kartal Yenilenebili Enerji"
     },
     "KTSKR": {
       "ticker": "KTSKR",
@@ -16743,7 +16747,8 @@
           "d": "2026-06-10",
           "c": 48.6
         }
-      ]
+      ],
+      "name": "Başkent Doğalgaz"
     },
     "GLRYH": {
       "ticker": "GLRYH",
@@ -18719,7 +18724,8 @@
           "d": "2026-06-10",
           "c": 15.97
         }
-      ]
+      ],
+      "name": "Altınay Savunma"
     },
     "OZSUB": {
       "ticker": "OZSUB",
@@ -23617,7 +23623,8 @@
           "d": "2026-06-10",
           "c": 27
         }
-      ]
+      ],
+      "name": "Bizim Toptan"
     },
     "AAGYO": {
       "ticker": "AAGYO",
@@ -23780,7 +23787,8 @@
           "d": "2026-06-10",
           "c": 17.16
         }
-      ]
+      ],
+      "name": "Ağaoğlu GYO"
     },
     "TUREX": {
       "ticker": "TUREX",
@@ -28191,7 +28199,8 @@
           "d": "2026-07-03",
           "c": 116.2
         }
-      ]
+      ],
+      "name": "Bahadır Kimya"
     },
     "KLSYN": {
       "ticker": "KLSYN",
@@ -29169,7 +29178,8 @@
           "d": "2026-06-10",
           "c": 54.4
         }
-      ]
+      ],
+      "name": "Atakey Patates"
     },
     "TABGD": {
       "ticker": "TABGD",
@@ -30143,7 +30153,8 @@
           "d": "2026-06-10",
           "c": 62.25
         }
-      ]
+      ],
+      "name": "Alfa Solar"
     },
     "YATAS": {
       "ticker": "YATAS",
@@ -36518,7 +36529,8 @@
           "d": "2026-07-17",
           "c": 10.24
         }
-      ]
+      ],
+      "name": "Anatolia Biyoteknoloji"
     },
     "BRKSN": {
       "ticker": "BRKSN",
@@ -37500,7 +37512,8 @@
           "d": "2026-07-17",
           "c": 174.2
         }
-      ]
+      ],
+      "name": "BinBin"
     },
     "IHGZT": {
       "ticker": "IHGZT",
@@ -38482,7 +38495,8 @@
           "d": "2026-06-18",
           "c": 117.5
         }
-      ]
+      ],
+      "name": "Doğu Aras Enerji"
     },
     "BINHO": {
       "ticker": "BINHO",
@@ -38977,7 +38991,8 @@
           "d": "2026-07-17",
           "c": 10.42
         }
-      ]
+      ],
+      "name": "1000 Yatırımlar"
     },
     "IHYAY": {
       "ticker": "IHYAY",
@@ -39963,6 +39978,7 @@
     },
     "KRVGD": {
       "ticker": "KRVGD",
+      "name": "Kervan Gıda",
       "lastClose": 2.29,
       "changePct": 0.44,
       "prices": [
@@ -44390,7 +44406,8 @@
           "d": "2026-06-19",
           "c": 18.83
         }
-      ]
+      ],
+      "name": "Ahes GYO"
     },
     "PKART": {
       "ticker": "PKART",
@@ -48322,7 +48339,8 @@
           "d": "2026-07-03",
           "c": 153.2
         }
-      ]
+      ],
+      "name": "Alcatel Teletaş"
     },
     "KONTR": {
       "ticker": "KONTR",
@@ -51084,7 +51102,8 @@
           "d": "2026-06-19",
           "c": 35.6
         }
-      ]
+      ],
+      "name": "Ahlatçı Doğalgaz"
     },
     "ATLAS": {
       "ticker": "ATLAS",
@@ -51579,7 +51598,8 @@
           "d": "2026-06-19",
           "c": 8.23
         }
-      ]
+      ],
+      "name": "Atlas YO"
     },
     "KZBGY": {
       "ticker": "KZBGY",
@@ -56948,7 +56968,8 @@
           "d": "2026-06-19",
           "c": 2.3
         }
-      ]
+      ],
+      "name": "Arzum Ev Aletleri"
     },
     "SNGYO": {
       "ticker": "SNGYO",
@@ -58820,7 +58841,8 @@
           "d": "2026-07-17",
           "c": 15.89
         }
-      ]
+      ],
+      "name": "Ata Turizm"
     },
     "ZRGYO": {
       "ticker": "ZRGYO",
@@ -60293,7 +60315,8 @@
           "d": "2026-06-25",
           "c": 16.22
         }
-      ]
+      ],
+      "name": "Bera Holding"
     },
     "GOKNR": {
       "ticker": "GOKNR",
@@ -66684,7 +66707,8 @@
           "d": "2026-06-30",
           "c": 43.3
         }
-      ]
+      ],
+      "name": "Artemis Halı"
     },
     "IZINV": {
       "ticker": "IZINV",
@@ -68652,7 +68676,8 @@
           "d": "2026-06-30",
           "c": 50.7
         }
-      ]
+      ],
+      "name": "Bak Ambalaj"
     },
     "ARFYE": {
       "ticker": "ARFYE",
@@ -69143,7 +69168,8 @@
           "d": "2026-07-27",
           "c": 31.06
         }
-      ]
+      ],
+      "name": "Arf Bio Enerji"
     },
     "PRKME": {
       "ticker": "PRKME",
@@ -72109,7 +72135,8 @@
           "d": "2026-07-03",
           "c": 0.96
         }
-      ]
+      ],
+      "name": "Adese AVM"
     },
     "LRSHO": {
       "ticker": "LRSHO",
@@ -78504,7 +78531,8 @@
           "d": "2026-08-03",
           "c": 3.39
         }
-      ]
+      ],
+      "name": "Batı Ege GYO"
     },
     "TGSAS": {
       "ticker": "TGSAS",
@@ -80979,7 +81007,8 @@
           "d": "2026-08-11",
           "c": 301.75
         }
-      ]
+      ],
+      "name": "Astor Enerji"
     },
     "SAMAT": {
       "ticker": "SAMAT",
@@ -87984,7 +88013,8 @@
           "d": "2026-07-31",
           "c": 2.77
         }
-      ]
+      ],
+      "name": "Akfen GYO"
     },
     "MBFTR": {
       "ticker": "MBFTR",
@@ -90455,6 +90485,7 @@
     },
     "ARSAN": {
       "ticker": "ARSAN",
+      "name": "Arsan Holding",
       "lastClose": 3.86,
       "changePct": -1.53,
       "prices": [
@@ -94359,7 +94390,8 @@
           "d": "2026-08-11",
           "c": 254
         }
-      ]
+      ],
+      "name": "Akmerkez GYO"
     },
     "MEDTR": {
       "ticker": "MEDTR",
@@ -95836,7 +95868,8 @@
           "d": "2026-08-21",
           "c": 106.3
         }
-      ]
+      ],
+      "name": "Alarko Holding"
     },
     "EGEEN": {
       "ticker": "EGEEN",
@@ -100039,6 +100072,7 @@
     },
     "KATMR": {
       "ticker": "KATMR",
+      "name": "Katmerciler Araç Üstü Ekipman",
       "lastClose": 1.92,
       "changePct": 1.59,
       "prices": [
