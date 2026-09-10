@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:13:28.171Z",
+  "generatedAt": "2026-09-10T21:29:13.625Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -7448,7 +7448,8 @@
           "d": "2026-07-14",
           "c": 16.3
         }
-      ]
+      ],
+      "name": "Enda Enerji"
     },
     "FRIGO": {
       "ticker": "FRIGO",
@@ -7939,7 +7940,8 @@
           "d": "2026-06-12",
           "c": 2.93
         }
-      ]
+      ],
+      "name": "Frigo Pak Gıda"
     },
     "MEYSU": {
       "ticker": "MEYSU",
@@ -8849,7 +8851,8 @@
           "d": "2026-06-12",
           "c": 9.39
         }
-      ]
+      ],
+      "name": "Euro Kapital Yatırım Ortaklığı"
     },
     "ETYAT": {
       "ticker": "ETYAT",
@@ -9344,7 +9347,8 @@
           "d": "2026-06-12",
           "c": 13.17
         }
-      ]
+      ],
+      "name": "Euro Trend Yatırım"
     },
     "EUYO": {
       "ticker": "EUYO",
@@ -9839,7 +9843,8 @@
           "d": "2026-06-12",
           "c": 6.28
         }
-      ]
+      ],
+      "name": "Euro Menkul"
     },
     "AKSEN": {
       "ticker": "AKSEN",
@@ -10830,7 +10835,8 @@
           "d": "2026-06-12",
           "c": 5.37
         }
-      ]
+      ],
+      "name": "Fonet Bilgi Teknolojileri"
     },
     "ATAGY": {
       "ticker": "ATAGY",
@@ -17246,7 +17252,8 @@
           "d": "2026-07-14",
           "c": 3.07
         }
-      ]
+      ],
+      "name": "Güler Yatırım Holding"
     },
     "FORTE": {
       "ticker": "FORTE",
@@ -17741,7 +17748,8 @@
           "d": "2026-07-02",
           "c": 96.5
         }
-      ]
+      ],
+      "name": "Forte Bilgi İletişim"
     },
     "LYDYE": {
       "ticker": "LYDYE",
@@ -21662,7 +21670,8 @@
           "d": "2026-06-10",
           "c": 14.38
         }
-      ]
+      ],
+      "name": "Flap Kongre Hiz.Oto.Tur.A.Ş"
     },
     "KMPUR": {
       "ticker": "KMPUR",
@@ -31625,7 +31634,8 @@
           "d": "2026-06-10",
           "c": 170
         }
-      ]
+      ],
+      "name": "Gülermak Ağır Sanayi"
     },
     "MOBTL": {
       "ticker": "MOBTL",
@@ -47859,7 +47869,8 @@
           "d": "2026-06-19",
           "c": 9.48
         }
-      ]
+      ],
+      "name": "Enerya Enerji"
     },
     "ALCTL": {
       "ticker": "ALCTL",
@@ -49349,7 +49360,8 @@
           "d": "2026-06-19",
           "c": 25.54
         }
-      ]
+      ],
+      "name": "Ersu Gıda"
     },
     "IHEVA": {
       "ticker": "IHEVA",
@@ -54544,7 +54556,8 @@
           "d": "2026-06-19",
           "c": 76.7
         }
-      ]
+      ],
+      "name": "Girişim Elektrik"
     },
     "EUPWR": {
       "ticker": "EUPWR",
@@ -55031,7 +55044,8 @@
           "d": "2026-06-19",
           "c": 88.35
         }
-      ]
+      ],
+      "name": "Europower Enerji"
     },
     "SRVGY": {
       "ticker": "SRVGY",
@@ -59839,7 +59853,8 @@
           "d": "2026-07-24",
           "c": 35.9
         }
-      ]
+      ],
+      "name": "Gersan Elektrik"
     },
     "BERA": {
       "ticker": "BERA",
@@ -60822,7 +60837,8 @@
           "d": "2026-07-21",
           "c": 24.54
         }
-      ]
+      ],
+      "name": "Göknur Gıda"
     },
     "EGEGY": {
       "ticker": "EGEGY",
@@ -75605,7 +75621,8 @@
           "d": "2026-07-31",
           "c": 3.36
         }
-      ]
+      ],
+      "name": "Esenboğa Elektrik"
     },
     "MAGEN": {
       "ticker": "MAGEN",
@@ -91973,7 +91990,8 @@
           "d": "2026-09-09",
           "c": 5.52
         }
-      ]
+      ],
+      "name": "Egeplast"
     },
     "GENIL": {
       "ticker": "GENIL",
@@ -92464,7 +92482,8 @@
           "d": "2026-08-06",
           "c": 9.51
         }
-      ]
+      ],
+      "name": "Gen İlaç"
     },
     "TKFEN": {
       "ticker": "TKFEN",
@@ -97865,7 +97884,8 @@
           "d": "2026-07-01",
           "c": 2.95
         }
-      ]
+      ],
+      "name": "Fenerbahce Futbol A.Ş."
     },
     "ETILR": {
       "ticker": "ETILR",
@@ -99124,7 +99144,8 @@
           "d": "2026-09-01",
           "c": 5.36
         }
-      ]
+      ],
+      "name": "Escort Teknoloji"
     },
     "GUBRF": {
       "ticker": "GUBRF",
