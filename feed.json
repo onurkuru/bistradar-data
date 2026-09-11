@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T18:17:44.162Z",
+  "generatedAt": "2026-09-11T21:36:48.922Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -12339,7 +12339,8 @@
           "d": "2026-06-12",
           "c": 6.88
         }
-      ]
+      ],
+      "name": "Oba Makarnacılık"
     },
     "ULKER": {
       "ticker": "ULKER",
@@ -14817,7 +14818,8 @@
           "d": "2026-07-13",
           "c": 13.3
         }
-      ]
+      ],
+      "name": "Penta Teknoloji"
     },
     "REEDR": {
       "ticker": "REEDR",
@@ -15799,7 +15801,8 @@
           "d": "2026-06-10",
           "c": 12
         }
-      ]
+      ],
+      "name": "Özyaşar Tel"
     },
     "SELVA": {
       "ticker": "SELVA",
@@ -19241,7 +19244,8 @@
           "d": "2026-06-10",
           "c": 28.22
         }
-      ]
+      ],
+      "name": "Özsu Balık"
     },
     "IMASM": {
       "ticker": "IMASM",
@@ -22668,7 +22672,8 @@
           "d": "2026-06-10",
           "c": 8.5
         }
-      ]
+      ],
+      "name": "Oylum Sınai Yatırımlar"
     },
     "KLRHO": {
       "ticker": "KLRHO",
@@ -23172,7 +23177,8 @@
     },
     "OSVKS": {
       "ticker": "OSVKS",
-      "prices": []
+      "prices": [],
+      "name": "Şirket Kartı Hisse Senedi | Şirket Kartı"
     },
     "BIZIM": {
       "ticker": "BIZIM",
@@ -32150,7 +32156,8 @@
           "d": "2026-06-10",
           "c": 15.43
         }
-      ]
+      ],
+      "name": "Mobitel İletişim"
     },
     "INGRM": {
       "ticker": "INGRM",
@@ -35593,7 +35600,8 @@
           "d": "2026-06-15",
           "c": 64.7
         }
-      ]
+      ],
+      "name": "Netaş"
     },
     "DAGI": {
       "ticker": "DAGI",
@@ -41510,7 +41518,8 @@
           "d": "2026-06-19",
           "c": 11.08
         }
-      ]
+      ],
+      "name": "Metro YO"
     },
     "NUGYO": {
       "ticker": "NUGYO",
@@ -42005,7 +42014,8 @@
           "d": "2026-06-19",
           "c": 10.36
         }
-      ]
+      ],
+      "name": "Nurol GYO"
     },
     "PEKGY": {
       "ticker": "PEKGY",
@@ -42500,7 +42510,8 @@
           "d": "2026-06-19",
           "c": 13.64
         }
-      ]
+      ],
+      "name": "Peker GYO"
     },
     "YIGIT": {
       "ticker": "YIGIT",
@@ -44962,7 +44973,8 @@
           "d": "2026-07-21",
           "c": 137.4
         }
-      ]
+      ],
+      "name": "Plastikkart A.Ş"
     },
     "ISGSY": {
       "ticker": "ISGSY",
@@ -46441,7 +46453,8 @@
           "d": "2026-07-17",
           "c": 18.3
         }
-      ]
+      ],
+      "name": "Mogan Enerji"
     },
     "SEYKM": {
       "ticker": "SEYKM",
@@ -47423,7 +47436,8 @@
           "d": "2026-06-19",
           "c": 35.44
         }
-      ]
+      ],
+      "name": "Mopaş"
     },
     "ENERY": {
       "ticker": "ENERY",
@@ -56069,7 +56083,8 @@
           "d": "2026-06-19",
           "c": 1499
         }
-      ]
+      ],
+      "name": "Özata Denizcilik"
     },
     "OZKGY": {
       "ticker": "OZKGY",
@@ -56556,7 +56571,8 @@
           "d": "2026-06-19",
           "c": 14.72
         }
-      ]
+      ],
+      "name": "Özak GYO"
     },
     "ARZUM": {
       "ticker": "ARZUM",
@@ -58513,7 +58529,8 @@
           "d": "2026-07-27",
           "c": 50.15
         }
-      ]
+      ],
+      "name": "Ofis Yem"
     },
     "ATATR": {
       "ticker": "ATATR",
@@ -68265,7 +68282,8 @@
           "d": "2026-07-28",
           "c": 1.37
         }
-      ]
+      ],
+      "name": "Martı GYO"
     },
     "KNTFA": {
       "ticker": "KNTFA",
@@ -75180,7 +75198,8 @@
           "d": "2026-07-31",
           "c": 5.91
         }
-      ]
+      ],
+      "name": "Naturel Yenilenebilir Enerji"
     },
     "ESEN": {
       "ticker": "ESEN",
@@ -83067,7 +83086,8 @@
           "d": "2026-08-07",
           "c": 30.1451
         }
-      ]
+      ],
+      "name": "PC İletişim ve Medya"
     },
     "IHLAS": {
       "ticker": "IHLAS",
@@ -84542,7 +84562,8 @@
           "d": "2026-08-17",
           "c": 45.24
         }
-      ]
+      ],
+      "name": "Net Holding"
     },
     "BOBET": {
       "ticker": "BOBET",
@@ -87620,7 +87641,8 @@
           "d": "2026-08-17",
           "c": 9.59
         }
-      ]
+      ],
+      "name": "Penguen Gıda"
     },
     "AKFGY": {
       "ticker": "AKFGY",
@@ -90091,7 +90113,8 @@
           "d": "2026-08-25",
           "c": 27.7
         }
-      ]
+      ],
+      "name": "Özerden Plastik"
     },
     "TBORG": {
       "ticker": "TBORG",
@@ -91569,7 +91592,8 @@
           "d": "2026-09-09",
           "c": 5.21
         }
-      ]
+      ],
+      "name": "Mazhar Zorlu Holding"
     },
     "EPLAS": {
       "ticker": "EPLAS",
@@ -93527,7 +93551,8 @@
           "d": "2026-09-01",
           "c": 27.44
         }
-      ]
+      ],
+      "name": "Mia Teknoloji"
     },
     "KAPLM": {
       "ticker": "KAPLM",
