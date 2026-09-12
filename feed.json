@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:36:48.922Z",
+  "generatedAt": "2026-09-12T11:32:20.875Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -3710,7 +3710,7 @@
     {
       "ticker": "NETGL",
       "company": "Net Global Endüstriyel Yatırımlar A.Ş.",
-      "status": "collecting",
+      "status": "listed",
       "subscriptionStart": "2026-09-09",
       "subscriptionEnd": "2026-09-11",
       "priceFixed": 25.52,
@@ -3720,7 +3720,7 @@
       "intermediary": "Tacirler Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/net-global-endustriyel-yatirimlar-a-s/",
       "disclosureId": "halkarz-net-global-endustriyel-yatirimlar-a-s",
-      "updatedAt": "2026-09-10T09:43:44.753Z"
+      "updatedAt": "2026-09-12T11:32:20.875Z"
     },
     {
       "ticker": "INTET",
@@ -4501,7 +4501,8 @@
           "d": "2026-06-15",
           "c": 2.66
         }
-      ]
+      ],
+      "name": "Silverline"
     },
     "YBTAS": {
       "ticker": "YBTAS",
@@ -15314,7 +15315,8 @@
           "d": "2026-07-10",
           "c": 6.56
         }
-      ]
+      ],
+      "name": "Reeder"
     },
     "OZYSR": {
       "ticker": "OZYSR",
@@ -16289,7 +16291,8 @@
           "d": "2026-06-10",
           "c": 2.1
         }
-      ]
+      ],
+      "name": "Selva Gıda"
     },
     "BASGZ": {
       "ticker": "BASGZ",
@@ -27259,7 +27262,8 @@
           "d": "2026-07-31",
           "c": 3.05
         }
-      ]
+      ],
+      "name": "RTA laboratuvarlari"
     },
     "KLMSN": {
       "ticker": "KLMSN",
@@ -40036,7 +40040,8 @@
           "d": "2026-06-18",
           "c": 4.26
         }
-      ]
+      ],
+      "name": "Sanica Isı Sanayi"
     },
     "KRVGD": {
       "ticker": "KRVGD",
@@ -46945,7 +46950,8 @@
           "d": "2026-06-19",
           "c": 4.63
         }
-      ]
+      ],
+      "name": "Seyitler Kimya"
     },
     "MOPAS": {
       "ticker": "MOPAS",
@@ -53146,7 +53152,8 @@
           "d": "2026-06-19",
           "c": 395
         }
-      ]
+      ],
+      "name": "Sumas Mobilya"
     },
     "MHRGY": {
       "ticker": "MHRGY",
@@ -54129,7 +54136,8 @@
           "d": "2026-07-17",
           "c": 11.25
         }
-      ]
+      ],
+      "name": "Sekuro Plastik"
     },
     "GESAN": {
       "ticker": "GESAN",
@@ -55596,7 +55604,8 @@
           "d": "2026-06-23",
           "c": 2.95
         }
-      ]
+      ],
+      "name": "Servet GYO"
     },
     "OZATD": {
       "ticker": "OZATD",
@@ -57547,7 +57556,8 @@
           "d": "2026-06-19",
           "c": 3.84
         }
-      ]
+      ],
+      "name": "Sinpas GYO"
     },
     "SERNT": {
       "ticker": "SERNT",
@@ -58038,7 +58048,8 @@
           "d": "2026-06-23",
           "c": 10.96
         }
-      ]
+      ],
+      "name": "Seranit Granit"
     },
     "OFSYM": {
       "ticker": "OFSYM",
@@ -61888,7 +61899,8 @@
           "d": "2026-06-25",
           "c": 3.5898
         }
-      ]
+      ],
+      "name": "Pasifik GYO"
     },
     "SUNTK": {
       "ticker": "SUNTK",
@@ -62383,7 +62395,8 @@
           "d": "2026-06-26",
           "c": 29.02
         }
-      ]
+      ],
+      "name": "Sun Tekstil"
     },
     "TRCAS": {
       "ticker": "TRCAS",
@@ -63857,7 +63870,8 @@
           "d": "2026-06-26",
           "c": 16.64
         }
-      ]
+      ],
+      "name": "Söke Değirmencilik"
     },
     "PLTUR": {
       "ticker": "PLTUR",
@@ -64348,7 +64362,8 @@
           "d": "2026-08-13",
           "c": 20.84
         }
-      ]
+      ],
+      "name": "Platform Turizm"
     },
     "CEOEM": {
       "ticker": "CEOEM",
@@ -69759,7 +69774,8 @@
           "d": "2026-07-31",
           "c": 17.12
         }
-      ]
+      ],
+      "name": "Park Elek. Madencilik"
     },
     "CEMAS": {
       "ticker": "CEMAS",
@@ -70750,7 +70766,8 @@
           "d": "2026-08-04",
           "c": 51.6
         }
-      ]
+      ],
+      "name": "Şok Marketler"
     },
     "EGEPO": {
       "ticker": "EGEPO",
@@ -74216,7 +74233,8 @@
           "d": "2026-07-28",
           "c": 18.89
         }
-      ]
+      ],
+      "name": "Sanko Pazarlama"
     },
     "PRDGS": {
       "ticker": "PRDGS",
@@ -74707,7 +74725,8 @@
           "d": "2026-07-31",
           "c": 7.16
         }
-      ]
+      ],
+      "name": "Pardus Girişim"
     },
     "NATEN": {
       "ticker": "NATEN",
@@ -81615,7 +81634,8 @@
           "d": "2026-08-03",
           "c": 5.45
         }
-      ]
+      ],
+      "name": "Saray Matbaacılık"
     },
     "IDGYO": {
       "ticker": "IDGYO",
@@ -85550,7 +85570,8 @@
           "d": "2026-08-11",
           "c": 57.85
         }
-      ]
+      ],
+      "name": "Prizma Pres Matbaacılık"
     },
     "SOHOE": {
       "ticker": "SOHOE",
@@ -85681,7 +85702,8 @@
           "d": "2026-08-18",
           "c": 10.39
         }
-      ]
+      ],
+      "name": "Soho Giyim"
     },
     "YYAPI": {
       "ticker": "YYAPI",
@@ -87150,7 +87172,8 @@
           "d": "2026-08-13",
           "c": 200
         }
-      ]
+      ],
+      "name": "Rönesans Gayrimenkul"
     },
     "PENGD": {
       "ticker": "PENGD",
@@ -89622,7 +89645,8 @@
           "d": "2026-08-31",
           "c": 26.38
         }
-      ]
+      ],
+      "name": "Rodrigo Tekstil"
     },
     "OZRDN": {
       "ticker": "OZRDN",
@@ -100219,7 +100243,8 @@
           "d": "2026-09-09",
           "c": 21.66
         }
-      ]
+      ],
+      "name": "SDT Uzay"
     },
     "KATMR": {
       "ticker": "KATMR",
