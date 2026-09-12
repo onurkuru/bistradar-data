@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T11:32:20.875Z",
+  "generatedAt": "2026-09-12T17:42:57.058Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -4997,7 +4997,8 @@
           "d": "2026-07-02",
           "c": 15.9
         }
-      ]
+      ],
+      "name": "Yibitaş İnş. Malzemeleri"
     },
     "ANELE": {
       "ticker": "ANELE",
@@ -12836,7 +12837,8 @@
           "d": "2026-06-12",
           "c": 113.2
         }
-      ]
+      ],
+      "name": "Ülker Bisküvi"
     },
     "A1YEN": {
       "ticker": "A1YEN",
@@ -24320,7 +24322,8 @@
           "d": "2026-06-10",
           "c": 8.14
         }
-      ]
+      ],
+      "name": "Tureks Tur.Taşımacılık"
     },
     "KCAER": {
       "ticker": "KCAER",
@@ -26767,7 +26770,8 @@
           "d": "2026-06-10",
           "c": 1.46
         }
-      ]
+      ],
+      "name": "Turk İlaç ve Serum Sanayi"
     },
     "RTALB": {
       "ticker": "RTALB",
@@ -29718,7 +29722,8 @@
           "d": "2026-06-10",
           "c": 270
         }
-      ]
+      ],
+      "name": "Tab Gıda"
     },
     "ALFAS": {
       "ticker": "ALFAS",
@@ -30693,7 +30698,8 @@
           "d": "2026-06-10",
           "c": 39.28
         }
-      ]
+      ],
+      "name": "Yataş Yatak"
     },
     "DERHL": {
       "ticker": "DERHL",
@@ -33632,7 +33638,8 @@
           "d": "2026-06-10",
           "c": 2.1
         }
-      ]
+      ],
+      "name": "Vera GYO"
     },
     "ISMEN": {
       "ticker": "ISMEN",
@@ -41028,7 +41035,8 @@
           "d": "2026-06-18",
           "c": 6.56
         }
-      ]
+      ],
+      "name": "Türkiye Sigorta"
     },
     "MTRYO": {
       "ticker": "MTRYO",
@@ -43007,7 +43015,8 @@
           "d": "2026-07-24",
           "c": 21.66
         }
-      ]
+      ],
+      "name": "Yiğit Akü"
     },
     "BORSK": {
       "ticker": "BORSK",
@@ -50698,7 +50707,8 @@
           "d": "2026-06-19",
           "c": 22.2
         }
-      ]
+      ],
+      "name": "Savur GYO"
     },
     "AHGAZ": {
       "ticker": "AHGAZ",
@@ -52665,7 +52675,8 @@
           "d": "2026-06-19",
           "c": 26.12
         }
-      ]
+      ],
+      "name": "Tapdi Oksijen"
     },
     "SUMAS": {
       "ticker": "SUMAS",
@@ -59436,7 +59447,8 @@
           "d": "2026-06-23",
           "c": 17.46
         }
-      ]
+      ],
+      "name": "Ziraat GYO"
     },
     "GEREL": {
       "ticker": "GEREL",
@@ -62887,7 +62899,8 @@
           "d": "2026-06-26",
           "c": 41.9
         }
-      ]
+      ],
+      "name": "Turcas Holding"
     },
     "EKSUN": {
       "ticker": "EKSUN",
@@ -66330,7 +66343,8 @@
           "d": "2026-08-03",
           "c": 48.2
         }
-      ]
+      ],
+      "name": "Tera Holding"
     },
     "ARTMS": {
       "ticker": "ARTMS",
@@ -73246,7 +73260,8 @@
           "d": "2026-07-31",
           "c": 44.16
         }
-      ]
+      ],
+      "name": "Türk Altın"
     },
     "CWENE": {
       "ticker": "CWENE",
@@ -76693,7 +76708,8 @@
           "d": "2026-08-03",
           "c": 125.1
         }
-      ]
+      ],
+      "name": "TR Anadolu Metal"
     },
     "TRENJ": {
       "ticker": "TRENJ",
@@ -77184,7 +77200,8 @@
           "d": "2026-08-03",
           "c": 91.95
         }
-      ]
+      ],
+      "name": "TR Doğal Enerji Kaynakları"
     },
     "MANAS": {
       "ticker": "MANAS",
@@ -79155,7 +79172,8 @@
           "d": "2026-08-03",
           "c": 181
         }
-      ]
+      ],
+      "name": "TGS Dış Ticaret"
     },
     "HUBVC": {
       "ticker": "HUBVC",
@@ -85079,7 +85097,8 @@
     },
     "UMPAS": {
       "ticker": "UMPAS",
-      "prices": []
+      "prices": [],
+      "name": "Şirket Kartı Hisse Senedi | Şirket Kartı"
     },
     "PRZMA": {
       "ticker": "PRZMA",
@@ -86194,7 +86213,8 @@
           "d": "2026-07-20",
           "c": 0.97
         }
-      ]
+      ],
+      "name": "Yesil Yapi"
     },
     "YESIL": {
       "ticker": "YESIL",
@@ -86681,7 +86701,8 @@
           "d": "2026-07-17",
           "c": 1.27
         }
-      ]
+      ],
+      "name": "Yeşil Yatırım Holding"
     },
     "RGYAS": {
       "ticker": "RGYAS",
@@ -90633,7 +90654,8 @@
           "d": "2026-08-28",
           "c": 157.5
         }
-      ]
+      ],
+      "name": "Tuborg"
     },
     "ARSAN": {
       "ticker": "ARSAN",
@@ -93084,7 +93106,8 @@
           "d": "2026-09-09",
           "c": 210
         }
-      ]
+      ],
+      "name": "Tekfen Holding"
     },
     "MIATK": {
       "ticker": "MIATK",
