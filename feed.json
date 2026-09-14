@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T13:46:58.323Z",
+  "generatedAt": "2026-09-14T19:46:44.173Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -98028,8 +98028,8 @@
     "ETILR": {
       "ticker": "ETILR",
       "name": "Etiler Gıda",
-      "lastClose": 6.35,
-      "changePct": -2.31,
+      "lastClose": 6.48,
+      "changePct": 2.05,
       "prices": [
         {
           "d": "2026-03-18",
@@ -98510,6 +98510,10 @@
         {
           "d": "2026-09-11",
           "c": 6.35
+        },
+        {
+          "d": "2026-09-14",
+          "c": 6.48
         }
       ]
     },
@@ -100752,8 +100756,8 @@
     "MCARD": {
       "ticker": "MCARD",
       "name": "MetropolCard",
-      "lastClose": 178.4,
-      "changePct": 1.36,
+      "lastClose": 162.6,
+      "changePct": -8.86,
       "prices": [
         {
           "d": "2026-03-18",
@@ -101234,14 +101238,18 @@
         {
           "d": "2026-09-11",
           "c": 178.4
+        },
+        {
+          "d": "2026-09-14",
+          "c": 162.6
         }
       ]
     },
     "BRKO": {
       "ticker": "BRKO",
       "name": "Birko Mensucat",
-      "lastClose": 10.9,
-      "changePct": -4.05,
+      "lastClose": 10.76,
+      "changePct": -1.28,
       "prices": [
         {
           "d": "2026-03-18",
@@ -101722,14 +101730,18 @@
         {
           "d": "2026-09-11",
           "c": 10.9
+        },
+        {
+          "d": "2026-09-14",
+          "c": 10.76
         }
       ]
     },
     "DIRIT": {
       "ticker": "DIRIT",
       "name": "Diriteks Diriliş Tekstil",
-      "lastClose": 25.62,
-      "changePct": -3.61,
+      "lastClose": 25.72,
+      "changePct": 0.39,
       "prices": [
         {
           "d": "2026-03-18",
@@ -102210,6 +102222,10 @@
         {
           "d": "2026-09-11",
           "c": 25.62
+        },
+        {
+          "d": "2026-09-14",
+          "c": 25.72
         }
       ]
     }
