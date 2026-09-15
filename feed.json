@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:32:38.769Z",
+  "generatedAt": "2026-09-15T18:47:59.510Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -3713,6 +3713,7 @@
       "status": "listed",
       "subscriptionStart": "2026-09-09",
       "subscriptionEnd": "2026-09-11",
+      "listingDate": "2026-09-17",
       "priceFixed": 25.52,
       "lotCount": 87500000,
       "method": "Eşit Dağıtım",
@@ -3720,7 +3721,7 @@
       "intermediary": "Tacirler Yatırım Menkul Değerler A.Ş.",
       "sourceUrl": "https://halkarz.com/net-global-endustriyel-yatirimlar-a-s/",
       "disclosureId": "halkarz-net-global-endustriyel-yatirimlar-a-s",
-      "updatedAt": "2026-09-12T11:32:20.875Z"
+      "updatedAt": "2026-09-15T18:47:59.510Z"
     },
     {
       "ticker": "INTET",
@@ -100756,8 +100757,8 @@
     "MCARD": {
       "ticker": "MCARD",
       "name": "MetropolCard",
-      "lastClose": 162.6,
-      "changePct": -8.86,
+      "lastClose": 152.9,
+      "changePct": -5.97,
       "prices": [
         {
           "d": "2026-03-19",
@@ -101238,14 +101239,18 @@
         {
           "d": "2026-09-14",
           "c": 162.6
+        },
+        {
+          "d": "2026-09-15",
+          "c": 152.9
         }
       ]
     },
     "BRKO": {
       "ticker": "BRKO",
       "name": "Birko Mensucat",
-      "lastClose": 10.76,
-      "changePct": -1.28,
+      "lastClose": 11.39,
+      "changePct": 5.86,
       "prices": [
         {
           "d": "2026-03-19",
@@ -101726,14 +101731,18 @@
         {
           "d": "2026-09-14",
           "c": 10.76
+        },
+        {
+          "d": "2026-09-15",
+          "c": 11.39
         }
       ]
     },
     "DIRIT": {
       "ticker": "DIRIT",
       "name": "Diriteks Diriliş Tekstil",
-      "lastClose": 25.72,
-      "changePct": 0.39,
+      "lastClose": 25.04,
+      "changePct": -2.64,
       "prices": [
         {
           "d": "2026-03-19",
@@ -102214,6 +102223,10 @@
         {
           "d": "2026-09-14",
           "c": 25.72
+        },
+        {
+          "d": "2026-09-15",
+          "c": 25.04
         }
       ]
     }
