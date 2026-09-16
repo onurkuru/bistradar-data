@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T12:30:40.806Z",
+  "generatedAt": "2026-09-16T18:46:16.392Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -100757,8 +100757,8 @@
     "MCARD": {
       "ticker": "MCARD",
       "name": "MetropolCard",
-      "lastClose": 152.9,
-      "changePct": -5.97,
+      "lastClose": 137.7,
+      "changePct": -9.94,
       "prices": [
         {
           "d": "2026-03-23",
@@ -101239,6 +101239,10 @@
         {
           "d": "2026-09-15",
           "c": 152.9
+        },
+        {
+          "d": "2026-09-16",
+          "c": 137.7
         }
       ]
     },
