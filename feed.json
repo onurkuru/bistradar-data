@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T12:39:45.678Z",
+  "generatedAt": "2026-09-23T18:55:54.037Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -178,6 +178,19 @@
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=ASTOR",
       "announced": true,
       "updatedAt": "2026-08-11T20:02:14.707Z"
+    },
+    {
+      "ticker": "KPEKS",
+      "exDate": "2026-10-07",
+      "grossPerShare": 0.5995,
+      "netPerShare": 0.5096,
+      "yieldPct": 0.95,
+      "payoutRatioPct": 61,
+      "totalAmount": 75000000,
+      "source": "isyatirim",
+      "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KPEKS",
+      "announced": true,
+      "updatedAt": "2026-09-23T18:56:14.240Z"
     },
     {
       "ticker": "TRALT",
@@ -85741,8 +85754,8 @@
     "YYAPI": {
       "ticker": "YYAPI",
       "name": "Yesil Yapi",
-      "lastClose": 0.62,
-      "changePct": -4.62,
+      "lastClose": 0.64,
+      "changePct": 3.23,
       "prices": [
         {
           "d": "2026-03-27",
@@ -86227,14 +86240,18 @@
         {
           "d": "2026-09-22",
           "c": 0.62
+        },
+        {
+          "d": "2026-09-23",
+          "c": 0.64
         }
       ]
     },
     "YESIL": {
       "ticker": "YESIL",
       "name": "Yeşil Yatırım Holding",
-      "lastClose": 0.94,
-      "changePct": -4.08,
+      "lastClose": 0.92,
+      "changePct": -2.13,
       "prices": [
         {
           "d": "2026-03-27",
@@ -86719,6 +86736,10 @@
         {
           "d": "2026-09-22",
           "c": 0.94
+        },
+        {
+          "d": "2026-09-23",
+          "c": 0.92
         }
       ]
     },
@@ -102750,8 +102771,8 @@
     "ARENA": {
       "ticker": "ARENA",
       "name": "Arena Bilgisayar",
-      "lastClose": 16.6,
-      "changePct": 1.1,
+      "lastClose": 16.42,
+      "changePct": -1.08,
       "prices": [
         {
           "d": "2026-03-27",
@@ -103236,6 +103257,114 @@
         {
           "d": "2026-09-22",
           "c": 16.6
+        },
+        {
+          "d": "2026-09-23",
+          "c": 16.42
+        }
+      ]
+    },
+    "KPEKS": {
+      "ticker": "KPEKS",
+      "name": "Kapeks Kimya",
+      "lastClose": 63.4,
+      "changePct": 2.18,
+      "prices": [
+        {
+          "d": "2026-08-21",
+          "c": 103.4
+        },
+        {
+          "d": "2026-08-24",
+          "c": 113.7
+        },
+        {
+          "d": "2026-08-25",
+          "c": 125
+        },
+        {
+          "d": "2026-08-26",
+          "c": 137.5
+        },
+        {
+          "d": "2026-08-27",
+          "c": 151.2
+        },
+        {
+          "d": "2026-08-28",
+          "c": 136.1
+        },
+        {
+          "d": "2026-08-31",
+          "c": 122.5
+        },
+        {
+          "d": "2026-09-01",
+          "c": 110.3
+        },
+        {
+          "d": "2026-09-02",
+          "c": 99.3
+        },
+        {
+          "d": "2026-09-03",
+          "c": 95.2
+        },
+        {
+          "d": "2026-09-04",
+          "c": 94.95
+        },
+        {
+          "d": "2026-09-07",
+          "c": 97.4
+        },
+        {
+          "d": "2026-09-08",
+          "c": 94.85
+        },
+        {
+          "d": "2026-09-09",
+          "c": 98.1
+        },
+        {
+          "d": "2026-09-10",
+          "c": 95
+        },
+        {
+          "d": "2026-09-11",
+          "c": 95.1
+        },
+        {
+          "d": "2026-09-14",
+          "c": 96.9
+        },
+        {
+          "d": "2026-09-15",
+          "c": 95.4
+        },
+        {
+          "d": "2026-09-16",
+          "c": 94.5
+        },
+        {
+          "d": "2026-09-17",
+          "c": 85.05
+        },
+        {
+          "d": "2026-09-18",
+          "c": 76.55
+        },
+        {
+          "d": "2026-09-21",
+          "c": 68.9
+        },
+        {
+          "d": "2026-09-22",
+          "c": 62.05
+        },
+        {
+          "d": "2026-09-23",
+          "c": 63.4
         }
       ]
     }
