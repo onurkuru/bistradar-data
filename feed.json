@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T18:54:43.811Z",
+  "generatedAt": "2026-09-25T19:11:19.284Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -184,13 +184,13 @@
       "exDate": "2026-10-07",
       "grossPerShare": 0.5995,
       "netPerShare": 0.5096,
-      "yieldPct": 1.04,
+      "yieldPct": 1.05,
       "payoutRatioPct": 61,
       "totalAmount": 75000000,
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KPEKS",
       "announced": true,
-      "updatedAt": "2026-09-24T18:55:27.285Z"
+      "updatedAt": "2026-09-25T19:12:12.613Z"
     },
     {
       "ticker": "TRALT",
@@ -85754,8 +85754,8 @@
     "YYAPI": {
       "ticker": "YYAPI",
       "name": "Yesil Yapi",
-      "lastClose": 0.61,
-      "changePct": -4.69,
+      "lastClose": 0.59,
+      "changePct": -3.28,
       "prices": [
         {
           "d": "2026-03-30",
@@ -86244,14 +86244,18 @@
         {
           "d": "2026-09-24",
           "c": 0.61
+        },
+        {
+          "d": "2026-09-25",
+          "c": 0.59
         }
       ]
     },
     "YESIL": {
       "ticker": "YESIL",
       "name": "Yeşil Yatırım Holding",
-      "lastClose": 0.89,
-      "changePct": -3.26,
+      "lastClose": 0.9,
+      "changePct": 1.12,
       "prices": [
         {
           "d": "2026-03-30",
@@ -86740,6 +86744,10 @@
         {
           "d": "2026-09-24",
           "c": 0.89
+        },
+        {
+          "d": "2026-09-25",
+          "c": 0.9
         }
       ]
     },
@@ -98835,8 +98843,8 @@
     "ESCOM": {
       "ticker": "ESCOM",
       "name": "Escort Teknoloji",
-      "lastClose": 4.39,
-      "changePct": -6.79,
+      "lastClose": 4.52,
+      "changePct": 2.96,
       "prices": [
         {
           "d": "2026-03-30",
@@ -99325,6 +99333,10 @@
         {
           "d": "2026-09-24",
           "c": 4.39
+        },
+        {
+          "d": "2026-09-25",
+          "c": 4.52
         }
       ]
     },
@@ -102775,8 +102787,8 @@
     "ARENA": {
       "ticker": "ARENA",
       "name": "Arena Bilgisayar",
-      "lastClose": 15.59,
-      "changePct": -5.05,
+      "lastClose": 15.64,
+      "changePct": 0.32,
       "prices": [
         {
           "d": "2026-03-30",
@@ -103265,14 +103277,18 @@
         {
           "d": "2026-09-24",
           "c": 15.59
+        },
+        {
+          "d": "2026-09-25",
+          "c": 15.64
         }
       ]
     },
     "KPEKS": {
       "ticker": "KPEKS",
       "name": "Kapeks Kimya",
-      "lastClose": 57.4,
-      "changePct": -9.46,
+      "lastClose": 56.9,
+      "changePct": -0.87,
       "prices": [
         {
           "d": "2026-08-21",
@@ -103373,14 +103389,18 @@
         {
           "d": "2026-09-24",
           "c": 57.4
+        },
+        {
+          "d": "2026-09-25",
+          "c": 56.9
         }
       ]
     },
     "FZLGY": {
       "ticker": "FZLGY",
       "name": "Fuzul Gayrimenkul",
-      "lastClose": 6.21,
-      "changePct": -10,
+      "lastClose": 5.8,
+      "changePct": -6.6,
       "prices": [
         {
           "d": "2026-03-30",
@@ -103869,6 +103889,10 @@
         {
           "d": "2026-09-24",
           "c": 6.21
+        },
+        {
+          "d": "2026-09-25",
+          "c": 5.8
         }
       ]
     }
