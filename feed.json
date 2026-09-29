@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T13:53:11.060Z",
+  "generatedAt": "2026-09-29T19:53:00.824Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -103891,8 +103891,8 @@
     "GEDZA": {
       "ticker": "GEDZA",
       "name": "Gediz Ambalaj Sanayi",
-      "lastClose": 21.94,
-      "changePct": -5.76,
+      "lastClose": 21.88,
+      "changePct": -0.27,
       "prices": [
         {
           "d": "2026-04-02",
@@ -104377,14 +104377,18 @@
         {
           "d": "2026-09-28",
           "c": 21.94
+        },
+        {
+          "d": "2026-09-29",
+          "c": 21.88
         }
       ]
     },
     "GSRAY": {
       "ticker": "GSRAY",
       "name": "Galatasaray Sportif A.Ş",
-      "lastClose": 0.81,
-      "changePct": -7.95,
+      "lastClose": 0.8,
+      "changePct": -1.23,
       "prices": [
         {
           "d": "2026-04-02",
@@ -104869,8 +104873,17 @@
         {
           "d": "2026-09-28",
           "c": 0.81
+        },
+        {
+          "d": "2026-09-29",
+          "c": 0.8
         }
       ]
+    },
+    "SMART": {
+      "ticker": "SMART",
+      "name": "Smartiks Yazılım",
+      "prices": []
     }
   }
 }
