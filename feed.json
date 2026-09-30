@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T13:28:47.009Z",
+  "generatedAt": "2026-09-30T19:54:27.636Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -98567,8 +98567,8 @@
     "EKDMR": {
       "ticker": "EKDMR",
       "name": "Ekinciler",
-      "lastClose": 30,
-      "changePct": -3.35,
+      "lastClose": 28.28,
+      "changePct": -5.73,
       "prices": [
         {
           "d": "2026-05-22",
@@ -98925,6 +98925,10 @@
         {
           "d": "2026-09-29",
           "c": 30
+        },
+        {
+          "d": "2026-09-30",
+          "c": 28.28
         }
       ]
     },
@@ -99427,8 +99431,8 @@
     "GUBRF": {
       "ticker": "GUBRF",
       "name": "Gübre Fabrikaları",
-      "lastClose": 417,
-      "changePct": -5.71,
+      "lastClose": 411.25,
+      "changePct": -1.38,
       "prices": [
         {
           "d": "2026-04-03",
@@ -99913,6 +99917,10 @@
         {
           "d": "2026-09-29",
           "c": 417
+        },
+        {
+          "d": "2026-09-30",
+          "c": 411.25
         }
       ]
     },
@@ -103983,8 +103991,8 @@
     "GEDZA": {
       "ticker": "GEDZA",
       "name": "Gediz Ambalaj Sanayi",
-      "lastClose": 21.88,
-      "changePct": -0.27,
+      "lastClose": 21.4,
+      "changePct": -2.19,
       "prices": [
         {
           "d": "2026-04-03",
@@ -104469,14 +104477,18 @@
         {
           "d": "2026-09-29",
           "c": 21.88
+        },
+        {
+          "d": "2026-09-30",
+          "c": 21.4
         }
       ]
     },
     "GSRAY": {
       "ticker": "GSRAY",
       "name": "Galatasaray Sportif A.Ş",
-      "lastClose": 0.8,
-      "changePct": -1.23,
+      "lastClose": 0.79,
+      "changePct": -1.25,
       "prices": [
         {
           "d": "2026-04-03",
@@ -104961,14 +104973,18 @@
         {
           "d": "2026-09-29",
           "c": 0.8
+        },
+        {
+          "d": "2026-09-30",
+          "c": 0.79
         }
       ]
     },
     "SMART": {
       "ticker": "SMART",
       "name": "Smartiks Yazılım",
-      "lastClose": 15.5,
-      "changePct": -2.52,
+      "lastClose": 15.4,
+      "changePct": -0.65,
       "prices": [
         {
           "d": "2026-04-03",
@@ -105453,6 +105469,10 @@
         {
           "d": "2026-09-29",
           "c": 15.5
+        },
+        {
+          "d": "2026-09-30",
+          "c": 15.4
         }
       ]
     }
