@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T14:20:33.004Z",
+  "generatedAt": "2026-10-07T20:34:27.509Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -184,25 +184,25 @@
       "exDate": "2026-10-14",
       "grossPerShare": 4.491,
       "netPerShare": 3.8174,
-      "yieldPct": 1.09,
+      "yieldPct": 1.13,
       "payoutRatioPct": 24,
       "totalAmount": 1500000000,
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=GUBRF",
       "announced": true,
-      "updatedAt": "2026-10-07T14:21:19.649Z"
+      "updatedAt": "2026-10-07T20:34:36.838Z"
     },
     {
       "ticker": "KRVGD",
       "exDate": "2026-10-08",
       "grossPerShare": 0.0151,
       "netPerShare": 0.0128,
-      "yieldPct": 0.7,
+      "yieldPct": 0.73,
       "totalAmount": 32592637,
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=KRVGD",
       "announced": true,
-      "updatedAt": "2026-10-07T14:21:33.837Z"
+      "updatedAt": "2026-10-07T20:35:02.146Z"
     },
     {
       "ticker": "KPEKS",
@@ -40183,8 +40183,8 @@
     "KRVGD": {
       "ticker": "KRVGD",
       "name": "Kervan Gıda",
-      "lastClose": 2.15,
-      "changePct": -0.46,
+      "lastClose": 2.08,
+      "changePct": -3.26,
       "prices": [
         {
           "d": "2026-04-10",
@@ -40669,6 +40669,10 @@
         {
           "d": "2026-10-06",
           "c": 2.15
+        },
+        {
+          "d": "2026-10-07",
+          "c": 2.08
         }
       ]
     },
@@ -86857,8 +86861,8 @@
     "RGYAS": {
       "ticker": "RGYAS",
       "name": "Rönesans Gayrimenkul",
-      "lastClose": 187.1799,
-      "changePct": -1.37,
+      "lastClose": 186,
+      "changePct": -0.63,
       "prices": [
         {
           "d": "2026-04-10",
@@ -87343,6 +87347,10 @@
         {
           "d": "2026-10-06",
           "c": 187.1799
+        },
+        {
+          "d": "2026-10-07",
+          "c": 186
         }
       ]
     },
@@ -99546,8 +99554,8 @@
     "GUBRF": {
       "ticker": "GUBRF",
       "name": "Gübre Fabrikaları",
-      "lastClose": 410.75,
-      "changePct": -1.26,
+      "lastClose": 396.75,
+      "changePct": -3.41,
       "prices": [
         {
           "d": "2026-04-10",
@@ -100032,6 +100040,10 @@
         {
           "d": "2026-10-06",
           "c": 410.75
+        },
+        {
+          "d": "2026-10-07",
+          "c": 396.75
         }
       ]
     },
@@ -101514,8 +101526,8 @@
     "BRKO": {
       "ticker": "BRKO",
       "name": "Birko Mensucat",
-      "lastClose": 7.01,
-      "changePct": 1.74,
+      "lastClose": 6.83,
+      "changePct": -2.57,
       "prices": [
         {
           "d": "2026-04-10",
@@ -102000,6 +102012,10 @@
         {
           "d": "2026-10-06",
           "c": 7.01
+        },
+        {
+          "d": "2026-10-07",
+          "c": 6.83
         }
       ]
     },
@@ -103502,8 +103518,8 @@
     "KPEKS": {
       "ticker": "KPEKS",
       "name": "Kapeks Kimya",
-      "lastClose": 53.5505,
-      "changePct": 9.93,
+      "lastClose": 54.5,
+      "changePct": 1.77,
       "prices": [
         {
           "d": "2026-08-21",
@@ -103636,6 +103652,10 @@
         {
           "d": "2026-10-06",
           "c": 53.5505
+        },
+        {
+          "d": "2026-10-07",
+          "c": 54.5
         }
       ]
     },
@@ -106634,8 +106654,8 @@
     "BALSU": {
       "ticker": "BALSU",
       "name": "Balsu Gıda",
-      "lastClose": 8.8,
-      "changePct": -2.11,
+      "lastClose": 8.67,
+      "changePct": -1.48,
       "prices": [
         {
           "d": "2026-04-10",
@@ -107120,14 +107140,18 @@
         {
           "d": "2026-10-06",
           "c": 8.8
+        },
+        {
+          "d": "2026-10-07",
+          "c": 8.67
         }
       ]
     },
     "BETAE": {
       "ticker": "BETAE",
       "name": "Beta Enerji",
-      "lastClose": 59.1,
-      "changePct": -1.75,
+      "lastClose": 56.05,
+      "changePct": -5.16,
       "prices": [
         {
           "d": "2026-07-01",
@@ -107404,6 +107428,10 @@
         {
           "d": "2026-10-06",
           "c": 59.1
+        },
+        {
+          "d": "2026-10-07",
+          "c": 56.05
         }
       ]
     }
