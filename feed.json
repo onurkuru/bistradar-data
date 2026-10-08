@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:28:10.595Z",
+  "generatedAt": "2026-10-08T20:34:59.184Z",
   "dividends": [
     {
       "ticker": "GOKNR",
@@ -184,13 +184,13 @@
       "exDate": "2026-10-14",
       "grossPerShare": 4.491,
       "netPerShare": 3.8174,
-      "yieldPct": 1.13,
+      "yieldPct": 1.1,
       "payoutRatioPct": 24,
       "totalAmount": 1500000000,
       "source": "isyatirim",
       "sourceUrl": "https://www.isyatirim.com.tr/tr-tr/analiz/hisse/Sayfalar/sirket-karti.aspx?hisse=GUBRF",
       "announced": true,
-      "updatedAt": "2026-10-07T20:34:36.838Z"
+      "updatedAt": "2026-10-08T20:35:09.081Z"
     },
     {
       "ticker": "KRVGD",
@@ -40183,8 +40183,8 @@
     "KRVGD": {
       "ticker": "KRVGD",
       "name": "Kervan Gıda",
-      "lastClose": 2.0649,
-      "changePct": -3.26,
+      "lastClose": 2.18,
+      "changePct": 5.57,
       "prices": [
         {
           "d": "2026-04-13",
@@ -40669,6 +40669,10 @@
         {
           "d": "2026-10-07",
           "c": 2.0649
+        },
+        {
+          "d": "2026-10-08",
+          "c": 2.18
         }
       ]
     },
@@ -86857,8 +86861,8 @@
     "RGYAS": {
       "ticker": "RGYAS",
       "name": "Rönesans Gayrimenkul",
-      "lastClose": 186,
-      "changePct": -0.63,
+      "lastClose": 188.3,
+      "changePct": 1.24,
       "prices": [
         {
           "d": "2026-04-13",
@@ -87343,6 +87347,10 @@
         {
           "d": "2026-10-07",
           "c": 186
+        },
+        {
+          "d": "2026-10-08",
+          "c": 188.3
         }
       ]
     },
@@ -99546,8 +99554,8 @@
     "GUBRF": {
       "ticker": "GUBRF",
       "name": "Gübre Fabrikaları",
-      "lastClose": 396.75,
-      "changePct": -3.41,
+      "lastClose": 407.5,
+      "changePct": 2.71,
       "prices": [
         {
           "d": "2026-04-13",
@@ -100032,6 +100040,10 @@
         {
           "d": "2026-10-07",
           "c": 396.75
+        },
+        {
+          "d": "2026-10-08",
+          "c": 407.5
         }
       ]
     },
@@ -101514,8 +101526,8 @@
     "BRKO": {
       "ticker": "BRKO",
       "name": "Birko Mensucat",
-      "lastClose": 6.83,
-      "changePct": -2.57,
+      "lastClose": 6.79,
+      "changePct": -0.59,
       "prices": [
         {
           "d": "2026-04-13",
@@ -102000,6 +102012,10 @@
         {
           "d": "2026-10-07",
           "c": 6.83
+        },
+        {
+          "d": "2026-10-08",
+          "c": 6.79
         }
       ]
     },
@@ -103502,8 +103518,8 @@
     "KPEKS": {
       "ticker": "KPEKS",
       "name": "Kapeks Kimya",
-      "lastClose": 54.5,
-      "changePct": 1.77,
+      "lastClose": 51.85,
+      "changePct": -4.86,
       "prices": [
         {
           "d": "2026-08-21",
@@ -103640,6 +103656,10 @@
         {
           "d": "2026-10-07",
           "c": 54.5
+        },
+        {
+          "d": "2026-10-08",
+          "c": 51.85
         }
       ]
     },
@@ -106638,8 +106658,8 @@
     "BALSU": {
       "ticker": "BALSU",
       "name": "Balsu Gıda",
-      "lastClose": 8.67,
-      "changePct": -1.48,
+      "lastClose": 8.7,
+      "changePct": 0.35,
       "prices": [
         {
           "d": "2026-04-13",
@@ -107124,14 +107144,18 @@
         {
           "d": "2026-10-07",
           "c": 8.67
+        },
+        {
+          "d": "2026-10-08",
+          "c": 8.7
         }
       ]
     },
     "BETAE": {
       "ticker": "BETAE",
       "name": "Beta Enerji",
-      "lastClose": 56.05,
-      "changePct": -5.16,
+      "lastClose": 57.3,
+      "changePct": 2.23,
       "prices": [
         {
           "d": "2026-07-01",
@@ -107412,6 +107436,10 @@
         {
           "d": "2026-10-07",
           "c": 56.05
+        },
+        {
+          "d": "2026-10-08",
+          "c": 57.3
         }
       ]
     }
